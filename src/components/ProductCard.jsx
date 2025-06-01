@@ -33,7 +33,7 @@ const ProductCard = ({ product }) => {
             to={`/product/${product.id}`}
             className="bg-blue-600 hover:bg-blue-700 text-white px-3 py-1.5 rounded transition duration-300 text-sm"
           >
-            Detail
+            Beli Sekarang
           </Link>
         </div>
       </div>

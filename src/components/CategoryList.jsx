@@ -11,25 +11,11 @@ const categories = [
   },
   {
     id: 2,
-    name: 'Fashion',
+    name: 'Rumah Tangga',
     image: '/assets/images/category-fashion.jpg',
     slug: 'fashion',
-    count: 8
-  },
-  {
-    id: 3,
-    name: 'Kesehatan',
-    image: '/assets/images/category-health.jpg',
-    slug: 'kesehatan',
-    count: 6
-  },
-  {
-    id: 4,
-    name: 'Rumah Tangga',
-    image: '/assets/images/category-home.jpg',
-    slug: 'rumah-tangga',
     count: 10
-  }
+  },
 ];
 
 const CategoryCard = ({ category }) => {
