@@ -1,12 +1,12 @@
 export const products = [
   {
     id: 1,
-    name: "Smart LED TV 43 Inch",
-    price: 4500000,
-    shortDescription: "Smart TV dengan gambar jernih dan suara yang memukau",
+    name: "Lampu LED Visero Vintage",
+    price: "5.100 - Rp15.600",
+    shortDescription: "VISERO VINTAGE 5W 7W 9W 12W 15W 18W 21W Lampu LED Bohlam Bergaransi Cahaya Putih E27",
     description: "TV LED Smart 43 inch ini hadir dengan resolusi 4K Ultra HD yang menghadirkan kualitas gambar yang jernih dan detail. Dilengkapi dengan fitur smart TV yang memungkinkan Anda mengakses berbagai aplikasi streaming populer. Speaker built-in dengan teknologi Dolby Audio memberikan pengalaman audio yang memukau.",
     category: "elektronik",
-    image: "/assets/images/product-tv.jpg",
+    image: "/assets/images/product1.webp",
     specifications: {
       "Ukuran Layar": "43 inch",
       "Resolusi": "3840 x 2160 (4K)",
@@ -19,7 +19,7 @@ export const products = [
       "Berat": "8.2 kg",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/VISERO-VINTAGE-5W-7W-9W-12W-15W-18W-21W-Lampu-LED-Bohlam-Bergaransi-Cahaya-Putih-E27-i.640819968.24202994992",
     tiktokLink: "https://tiktok.com",
     testimonials: [
       {
@@ -32,12 +32,12 @@ export const products = [
   },
   {
     id: 2,
-    name: "Blender Multifungsi 2L",
-    price: 750000,
-    shortDescription: "Blender dengan 5 kecepatan dan material kaca tebal",
+    name: "Lampu LED Visero Vintage",
+    price: "54.500 - Rp136.000",
+    shortDescription: "Lampu LED Visero Vintage 5W 7W 9W 12W 15W 18W 21W Bohlam Cahaya Putih Bulb Bergaransi E27",
     description: "Blender multifungsi dengan kapasitas 2 liter ini memiliki desain modern dan kokoh. Dilengkapi dengan 5 tingkat kecepatan yang dapat disesuaikan dengan kebutuhan Anda. Material tabung dari kaca tebal yang tahan lama dan mudah dibersihkan. Cocok untuk membuat jus, smoothie, menggiling daging, dan berbagai kebutuhan dapur lainnya.",
-    category: "rumah-tangga",
-    image: "/assets/images/product-blender.jpg",
+    category: "elektronik",
+    image: "/assets/images/product2.webp",
     specifications: {
       "Kapasitas": "2 Liter",
       "Material": "Kaca & Stainless Steel",
@@ -49,7 +49,7 @@ export const products = [
       "Berat": "3.8 kg",
       "Garansi": "1 Tahun"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Lampu-LED-Visero-Vintage-5W-7W-9W-12W-15W-18W-21W-Bohlam-Cahaya-Putih-Bulb-Bergaransi-E27-i.640819968.28123264227",
     tiktokLink: "https://tiktok.com",
     testimonials: [
       {
@@ -62,12 +62,12 @@ export const products = [
   },
   {
     id: 3,
-    name: "Sepatu Running Sport X3",
-    price: 899000,
-    shortDescription: "Sepatu olahraga dengan bantalan empuk dan breathable",
+    name: "Lampu LED Bulb Bohlam",
+    price: "49.400 - Rp122.000",
+    shortDescription: "PAKET 10PCS PANALED ALTIS 5W 7W 9W 12W 15W 18W 23W GARANSI LAMPU LED BULB BOHLAM BERGARANSI",
     description: "Sepatu running seri X3 dirancang khusus untuk pelari dengan teknologi bantalan yang memberikan kenyamanan maksimal saat berlari. Material mesh breathable menjaga kaki tetap sejuk selama aktivitas. Outsole karet anti-slip memberikan cengkeraman yang baik di berbagai permukaan. Desain modern dan stylish cocok digunakan untuk olahraga maupun casual.",
-    category: "fashion",
-    image: "/assets/images/product-shoes.jpg",
+    category: "elektronik",
+    image: "/assets/images/product3.webp",
     specifications: {
       "Material Upper": "Mesh Breathable",
       "Material Sol": "Karet Anti-Slip",
@@ -76,7 +76,7 @@ export const products = [
       "Berat": "280 gram per sepatu",
       "Garansi": "30 hari (cacat produksi)"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/PAKET-10PCS-PANALED-ALTIS-5W-7W-9W-12W-15W-18W-23W-GARANSI-LAMPU-LED-BULB-BOHLAM-BERGARANSI-i.640819968.28724734433",
     tiktokLink: "https://tiktok.com",
     testimonials: [
       {
@@ -89,12 +89,12 @@ export const products = [
   },
   {
     id: 4,
-    name: "Masker KN95 Protective (50 pcs)",
-    price: 125000,
-    shortDescription: "Masker KN95 dengan 5 lapisan perlindungan",
+    name: "Lampu LED Visero Vintage",
+    price: "476.000 - Rp846.000",
+    shortDescription: "Visero Vintage 1 Dus/1 Koli Lampu LED 5W 7W 9W 12W 15W 18W 21W Grosir Bohlam SNI Cahaya Putih E27",
     description: "Masker KN95 dengan 5 lapisan filter yang memberikan perlindungan optimal terhadap partikel udara, debu, dan polutan. Desain ergonomis yang pas di wajah dan terdapat klip hidung yang dapat disesuaikan. Nyaman digunakan sepanjang hari dengan earloop elastis yang tidak menyakiti telinga. Kemasan isi 50 pcs yang ekonomis.",
-    category: "kesehatan",
-    image: "/assets/images/product-mask.jpg",
+    category: "elektronik",
+    image: "/assets/images/product4.webp",
     specifications: {
       "Jenis": "KN95 / FFP2",
       "Lapisan": "5 Lapisan",
@@ -105,7 +105,7 @@ export const products = [
       "Masa Pakai": "8 jam per masker",
       "Ukuran": "Standard (dewasa)"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Visero-Vintage-1-Dus-1-Koli-Lampu-LED-5W-7W-9W-12W-15W-18W-21W-Grosir-Bohlam-SNI-Cahaya-Putih-E27-i.640819968.26774170295",
     tiktokLink: "https://tiktok.com",
     testimonials: [
       {
@@ -118,12 +118,12 @@ export const products = [
   },
   {
     id: 5,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Lampu LED Morgen Grand",
+    price: "11.500 - Rp14.900",
+    shortDescription: "Lampu LED Morgen Grand 5W 7W 9W 11W 16W 18W A-Bulb Bohlam Cahaya Putih 6500K SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product5.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -138,17 +138,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Lampu-LED-Morgen-Grand-5W-7W-9W-11W-16W-18W-A-Bulb-Bohlam-Cahaya-Putih-6500K-SNI-i.640819968.18507367757",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 6,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "LAMPU LED PHILIPS",
+    price: "59.900 - Rp103.000",
+    shortDescription: "Philips Essential Multipack 5W 7W 9W 11W Lampu LED Bohlam Cahaya Putih 6500K Beli 3 Gratis 1",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product6.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -163,17 +163,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Philips-Essential-Multipack-5W-7W-9W-11W-Lampu-LED-Bohlam-Cahaya-Putih-6500K-Beli-3-Gratis-1-i.640819968.28855269259",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 7,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Lampu LED Visero Vintage",
+    price: "5.000 - Rp15.500",
+    shortDescription: "VISERO VINTAGE Lampu Bohlam LED 5W 7W 9W 12W 15W 18W 21 Watt - Bulb Cahaya Putih E27 SNI (SATUAN)",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product7.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -188,17 +188,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/VISERO-VINTAGE-Lampu-Bohlam-LED-5W-7W-9W-12W-15W-18W-21-Watt-Bulb-Cahaya-Putih-E27-SNI-(SATUAN)-i.640819968.24742786243",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 8,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Lampu LED Visero Vintage Paket 10pcs", 
+    price: "72.200",
+    shortDescription: "VISERO VINTAGE 12W Paket 10pcs Lampu Bohlam Led Bulb E27 Cahaya Putih Bergaransi 1 Tahun",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product8.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -213,17 +213,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/VISERO-VINTAGE-12W-Paket-10pcs-Lampu-Bohlam-Led-Bulb-E27-Cahaya-Putih-Bergaransi-1-Tahun-i.640819968.29480377339",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 9,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Lampu Visero Genix",
+    price: "11.300 - Rp32.000",
+    shortDescription: "Lampu LED Capsule Jumbo 60Watt Visero Genix Bohlam Bergaransi 1 Tahun Cahaya Putih SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product9.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -238,17 +238,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Lampu-LED-Capsule-Jumbo-60Watt-Visero-Genix-Bohlam-Bergaransi-1-Tahun-Cahaya-Putih-SNI-i.640819968.29630584898",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 10,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Lampu PION LED",
+    price: "58.000 - Rp119.000",
+    shortDescription: "PAKET 20PCS Lampu PION LED T5 T10 T15 T20 Bohlam Capsule Ekonomis Cahaya Putih SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product10.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -263,17 +263,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/PAKET-20PCS-Lampu-PION-LED-T5-T10-T15-T20-Bohlam-Capsule-Ekonomis-Cahaya-Putih-SNI-E27-i.640819968.27524903390",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 11,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Lampu PION LED Ekonomis",
+    price: "84.400 - Rp98.800",
+    shortDescription: "Paket Campur Lampu LED PION Ekonomis T5 T10 T15 T20 Total 20pcs Bohlam Murah T-Bulb SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product11.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -288,17 +288,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Paket-Campur-Lampu-LED-PION-Ekonomis-T5-T10-T15-T20-Total-20pcs-Bohlam-Murah-T-Bulb-SNI-E27-i.640819968.27713849080",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 12,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Lampu Bohlam LED PION",
+    price: "2.700 - Rp8.900",
+    shortDescription: "Lampu Bohlam LED PION 5W 10W 15W 20W 30W 40WATT Bohlam Kapsul Ekonomis Cahaya Putih SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product12.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -313,17 +313,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Lampu-Bohlam-LED-PION-5W-10W-15W-20W-30W-40WATT-Bohlam-Kapsul-Ekonomis-Cahaya-Putih-SNI-E27-i.640819968.28180677361",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 13,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Lampu LED PION Ekonomis",
+    price: "84.400",
+    shortDescription: "Lampu LED PION Paket Ekonomis 20pcs Campur Watt – Paket Usaha Buat Jualan Bohlam LED Murah Grosiran",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product13.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -338,17 +338,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Lampu-LED-PION-Paket-Ekonomis-20pcs-Campur-Watt-%E2%80%93-Paket-Usaha-Buat-Jualan-Bohlam-LED-Murah-Grosiran-i.640819968.40752126335",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 14,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Lampu LED PION T5 T10 T15 T20 T30 T40",
+    price: "28.000 - Rp98.800",
+    shortDescription: "PAKET 10PCS Lampu LED PION T5 T10 T15 T20 T30 T40 Bohlam Ekonmis Murah SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product14.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -363,17 +363,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/PAKET-10PCS-Lampu-LED-PION-T5-T10-T15-T20-T30-T40-Bohlam-Ekonmis-Murah-SNI-E27-i.640819968.22860463324",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 15,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Lampu LED Visero Vintage Paket Campur",
+    price: "135.500",
+    shortDescription: "Paket Campur 20pcs Visero Vintage Lampu LED 5W 7W 9W 12W Bohlam A Bulb Cahaya Putih SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product15.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -388,17 +388,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Paket-Campur-20pcs-Visero-Vintage-Lampu-LED-5W-7W-9W-12W-Bohlam-A-Bulb-Cahaya-Putih-SNI-E27-i.640819968.26023372123",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 16,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Lampu LED Visero Vintage Paket 5pcs",
+    price: "24.950 - Rp78.350",
+    shortDescription: "PAKET 5PCS Lampu LED Visero Vintage 5W 7W 9W 12W 15W 18W 21Watt Bohlam Bergaransi Cahaya Putih SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product16.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -413,17 +413,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/PAKET-5PCS-Lampu-LED-Visero-Vintage-5W-7W-9W-12W-15W-18W-21Watt-Bohlam-Bergaransi-Cahaya-Putih-SNI-E27-i.640819968.27328319197",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 17,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Lampu PION LED Ekonomis 10pcs",
+    price: "32.400 - Rp105.000",
+    shortDescription: "PAKET 10PCS Lampu PION LED Ekonomis T5 T10 T15 T20 T30 T40 Bohlam Cahaya Putih Capsule SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product17.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -438,17 +438,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/PAKET-10PCS-Lampu-PION-LED-Ekonomis-T5-T10-T15-T20-T30-T40-Bohlam-Cahaya-Putih-Capsule-SNI-E27-i.640819968.28123105331",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 18,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Lampu Philips LED Essential TrueForce",
+    price: "43.000 - Rp78.800",
+    shortDescription: "Lampu Philips LED Essential TrueForce Original 18W 22W 30WAT 40WATT Bohlam Tabung Cahaya Putih SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product18.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -463,17 +463,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Lampu-Philips-LED-Essential-TrueForce-Original-18W-22W-30WAT-40WATT-Bohlam-Tabung-Cahaya-Putih-SNI-i.640819968.22165277747",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 19,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: " Lampu LED PION T10 ",
+    price: "66.600",
+    shortDescription: "PAKET 20PCS Lampu LED PION T10 Bohlam Cahaya Putih Ekonomis Capsule",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product19.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -488,7 +488,7 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/PAKET-20PCS-Lampu-LED-PION-T10-Bohlam-Cahaya-Putih-Ekonomis-Capsule-i.640819968.22182539894",
     tiktokLink: "https://tiktok.com",
   },
   {

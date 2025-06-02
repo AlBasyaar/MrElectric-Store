@@ -5,16 +5,16 @@ const categories = [
   {
     id: 1,
     name: 'Elektronik',
-    image: '/assets/images/category-electronics.jpg',
+    image: '/assets/images/lampu1.jpeg',
     slug: 'elektronik',
-    count: 12,
+    count: 89,
   },
   {
     id: 2,
-    name: 'Rumah Tangga',
-    image: '/assets/images/category-fashion.jpg',
+    name: 'Alat Rumah Tangga',
+    image: '/assets/images/kipas1.jpeg',
     slug: 'fashion',
-    count: 10,
+    count: 72,
   },
 ];
 

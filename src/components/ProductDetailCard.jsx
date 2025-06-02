@@ -6,7 +6,7 @@ const ProductDetailCard = ({ product }) => {
   const handleWhatsAppClick = () => {
     const message = `Halo, saya tertarik dengan produk ${product.name} dengan harga Rp${product.price.toLocaleString('id-ID')}. Apakah produk ini masih tersedia?`;
     const encodedMessage = encodeURIComponent(message);
-    window.open(`https://wa.me/6281234567890?text=${encodedMessage}`, '_blank');
+    window.open(`https://wa.me/6285323800021?text=${encodedMessage}`, '_blank');
   };
 
   return (

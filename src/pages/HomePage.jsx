@@ -7,7 +7,7 @@ import CategoryList from '../components/CategoryList';
 import TestimonialSection from '../components/TestimonialSection';
 import ApaKataMereka from '../components/ApaKataMereka';
 import { testimonials } from '../data/testimonials';
-import { useTheme } from '../context/ThemeContext'; // diperbaiki di sini
+import { useTheme } from '../context/ThemeContext'; 
 
 const HomePage = () => {
   const { theme } = useTheme();
