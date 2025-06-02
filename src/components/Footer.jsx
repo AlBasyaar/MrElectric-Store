@@ -5,13 +5,13 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-gray-800 text-white">
+    <footer className="bg-blue-800 text-white">
       <div className="container mx-auto px-4 py-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* About */}
           <div>
-            <h3 className="text-lg font-semibold mb-4">Toko Online</h3>
-            <p className="text-gray-300 mb-4">
+            <h3 className="text-lg font-semibold mb-4">Mr Electric Store</h3>
+            <p className="text-white-300 mb-4">
               Menyediakan berbagai pilihan produk berkualitas dengan harga terbaik untuk memenuhi kebutuhan Anda.
             </p>
           </div>
@@ -21,12 +21,12 @@ const Footer = () => {
             <h3 className="text-lg font-semibold mb-4">Tautan Cepat</h3>
             <ul className="space-y-2">
               <li>
-                <Link to="/" className="text-gray-300 hover:text-white transition">
+                <Link to="/" className="text-white-300 hover:text-white transition">
                   Beranda
                 </Link>
               </li>
               <li>
-                <Link to="/products" className="text-gray-300 hover:text-white transition">
+                <Link to="/products" className="text-white-300 hover:text-white transition">
                   Semua Produk
                 </Link>
               </li>
@@ -36,7 +36,7 @@ const Footer = () => {
           {/* Contact */}
           <div>
             <h3 className="text-lg font-semibold mb-4">Kontak Kami</h3>
-            <ul className="space-y-2 text-gray-300">
+            <ul className="space-y-2 text-white-300">
               <li className="flex items-start">
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-12 mr-2 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
@@ -45,7 +45,7 @@ const Footer = () => {
                 <span>Jl. Blk. Duku No.61, RT.10/RW.10, Cibubur, Kec. Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13720</span>
               </li>
               <li className="flex items-start">
-                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-2 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-6 mr-2 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
                 <span>info@tokoonline.com</span>
@@ -61,7 +61,7 @@ const Footer = () => {
         </div>
 
         {/* Bottom Section */}
-        <div className="pt-8 mt-8 border-t border-gray-700 text-center text-gray-400">
+        <div className="pt-8 mt-8 border-t border-gray-700 text-center text-white-400">
           <p>© {currentYear} Toko Online. All Rights Reserved.</p>
         </div>
       </div>

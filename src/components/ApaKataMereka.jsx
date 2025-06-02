@@ -1,7 +1,8 @@
 import React from 'react';
 import { Shield, Zap, Package } from 'lucide-react';
-
+import { useTheme } from '../context/ThemeContext'; 
 const ApaKataMereka = () => {
+  const { theme } = useTheme();
   const features = [
     {
       icon: <Shield className="w-8 h-8 text-blue-600" />,
@@ -24,9 +25,9 @@ const ApaKataMereka = () => {
   ];
 
   return (
-    <section className="py-16 bg-gray-50">
+    <section className={`py-16 bg-gray-50  ${theme === 'dark' ? 'bg-gray-800 text-white' : 'bg-white text-gray-800'}`}>
       <div className="container mx-auto px-4">
-        <h2 className="text-2xl font-bold text-center mb-12 text-gray-800">
+        <h2 className="text-2xl font-bold text-center mb-12 text-white-800">
           Mengapa Memilih Kami
         </h2>
         

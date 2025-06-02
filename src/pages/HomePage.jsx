@@ -7,10 +7,13 @@ import CategoryList from '../components/CategoryList';
 import TestimonialSection from '../components/TestimonialSection';
 import ApaKataMereka from '../components/ApaKataMereka';
 import { testimonials } from '../data/testimonials';
+import { useTheme } from '../context/ThemeContext'; // diperbaiki di sini
 
 const HomePage = () => {
+  const { theme } = useTheme();
+
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className={`min-h-screen flex flex-col ${theme === 'dark' ? 'bg-gray-800 text-white' : 'bg-white text-gray-800'}`}>
       <Header />
       <main className="flex-grow">
         <Hero />
@@ -28,10 +31,8 @@ const HomePage = () => {
           </div>
         </div>
 
-        {/* Why Choose Us Section */}
         <ApaKataMereka />
-        
-        {/* Testimonials Section */}
+
         <div className="container mx-auto px-4 py-16">
           <h2 className="text-2xl font-bold mb-6 text-center">Testimoni Pelanggan</h2>
           {testimonials.length > 0 && (
