@@ -1,7 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { useTheme } from '../context/ThemeContext'; 
+
 
 const ProductCard = ({ product }) => {
+  const { theme } = useTheme();
   const handleWhatsAppClick = () => {
     const message = `Halo, saya tertarik dengan produk ${product.name} dengan harga Rp${product.price.toLocaleString('id-ID')}. Apakah produk ini masih tersedia?`;
     const encodedMessage = encodeURIComponent(message);
@@ -9,7 +12,7 @@ const ProductCard = ({ product }) => {
   };
 
   return (
-    <div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition duration-300">
+    <div className={`bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition duration-300  ${theme === 'dark' ? ' text-gray-800' : ' text-gray-800'}`}>
       <Link to={`/product/${product.id}`}>
         <div className="h-56 overflow-hidden">
           <img 

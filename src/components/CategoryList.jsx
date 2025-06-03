@@ -11,10 +11,17 @@ const categories = [
   },
   {
     id: 2,
-    name: 'Alat Rumah Tangga',
-    image: '/assets/images/kipas1.jpeg',
-    slug: 'fashion',
+    name: 'Kelistrikan',
+    image: '/assets/images/Kelistrikan.jpeg',
+    slug: 'kelistrikan',
     count: 72,
+  },
+  {
+    id: 3,
+    name: 'Packing & Pengemasan',
+    image: '/assets/images/Package.jpeg',
+    slug: 'Package',
+    count: 1,
   },
 ];
 

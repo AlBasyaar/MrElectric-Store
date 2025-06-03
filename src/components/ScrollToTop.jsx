@@ -5,29 +5,17 @@ const ScrollToTop = () => {
   const [isVisible, setIsVisible] = useState(false);
   const { theme } = useTheme();
 
-  // Show button when page is scrolled down
-  const toggleVisibility = () => {
-    if (window.pageYOffset > 300) {
-      setIsVisible(true);
-    } else {
-      setIsVisible(false);
-    }
-  };
-
-  // Set the scroll event listener
   useEffect(() => {
-    window.addEventListener('scroll', toggleVisibility);
+    const toggleVisibility = () => {
+      setIsVisible(window.pageYOffset > 300);
+    };
 
-    // Clean up event listener
+    window.addEventListener('scroll', toggleVisibility);
     return () => window.removeEventListener('scroll', toggleVisibility);
   }, []);
 
-  // Scroll to top function
   const scrollToTop = () => {
-    window.scrollTo({
-      top: 0,
-      behavior: 'smooth'
-    });
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
   return (
@@ -35,15 +23,16 @@ const ScrollToTop = () => {
       {isVisible && (
         <button
           onClick={scrollToTop}
-          className={`fixed bottom-5 right-5 p-3 rounded-full shadow-lg transition-all duration-300 ${theme === 'dark'
-              ? 'bg-sky-500 text-white hover:bg-sky-600'
-              : 'bg-sky-400 text-white hover:bg-sky-500'
+          className={`fixed bottom-5 right-5 p-3 rounded-full shadow-lg transition-all duration-300
+            ${theme === 'dark'
+              ? 'bg-gradient-to-b from-sky-400 to-sky-700 text-white hover:from-sky-500 hover:to-sky-800'
+              : 'bg-gradient-to-b from-sky-300 to-sky-600 text-white hover:from-sky-400 hover:to-sky-700'
             }`}
           aria-label="Scroll to top"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            className="h-6 w-6"
+            className="h-5 w-5"
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor"

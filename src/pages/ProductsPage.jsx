@@ -8,11 +8,15 @@ import { useTheme } from '../context/ThemeContext';
 
 const ProductsPage = () => {
   const { theme } = useTheme();
-  const [searchParams] = useSearchParams();
+  const [searchParams, setSearchParams] = useSearchParams();
+  
+  // Ambil parameter dari URL
   const categoryFilter = searchParams.get('category');
+  const pageParam = searchParams.get('page');
+  const initialPage = pageParam ? parseInt(pageParam, 10) : 1;
 
   const [filteredProducts, setFilteredProducts] = useState([]);
-  const [currentPage, setCurrentPage] = useState(1);
+  const [currentPage, setCurrentPage] = useState(initialPage);
   const productsPerPage = 15;
 
   useEffect(() => {
@@ -24,12 +28,47 @@ const ProductsPage = () => {
     } else {
       setFilteredProducts(products);
     }
-    setCurrentPage(1); // reset page on filter change
+    
+    // Hanya reset ke halaman 1 jika kategori berubah, bukan saat pertama load
+    if (categoryFilter !== searchParams.get('category')) {
+      setCurrentPage(1);
+      updateURLParams(1, categoryFilter);
+    }
   }, [categoryFilter]);
+
+  // Update URL ketika pagination berubah
+  const updateURLParams = (page, category = categoryFilter) => {
+    const newSearchParams = new URLSearchParams();
+    
+    if (category) {
+      newSearchParams.set('category', category);
+    }
+    
+    if (page > 1) {
+      newSearchParams.set('page', page.toString());
+    }
+    
+    setSearchParams(newSearchParams);
+  };
+
+  // Handler untuk mengubah halaman
+  const handlePageChange = (page) => {
+    setCurrentPage(page);
+    updateURLParams(page);
+  };
 
   const totalPages = Math.ceil(filteredProducts.length / productsPerPage);
   const startIndex = (currentPage - 1) * productsPerPage;
   const currentProducts = filteredProducts.slice(startIndex, startIndex + productsPerPage);
+
+  // Validasi currentPage jika melebihi totalPages
+  useEffect(() => {
+    if (totalPages > 0 && currentPage > totalPages) {
+      const validPage = Math.max(1, totalPages);
+      setCurrentPage(validPage);
+      updateURLParams(validPage);
+    }
+  }, [totalPages, currentPage]);
 
   const paginateRange = () => {
     const pages = [];
@@ -75,41 +114,55 @@ const ProductsPage = () => {
             </div>
 
             {/* Pagination */}
-            <div className="mt-8 flex justify-center items-center space-x-1 text-xs">
-              <button
-                onClick={() => setCurrentPage(prev => Math.max(prev - 1, 1))}
-                disabled={currentPage === 1}
-                className="px-2 py-1 rounded bg-gray-200 hover:bg-gray-300 disabled:opacity-50"
-              >
-                Previous
-              </button>
+            {totalPages > 1 && (
+              <div className="mt-8 flex justify-center items-center space-x-1 text-xs">
+                <button
+                  onClick={() => handlePageChange(Math.max(currentPage - 1, 1))}
+                  disabled={currentPage === 1}
+                  className={`px-2 py-1 rounded disabled:opacity-50 ${
+                    theme === 'dark' 
+                      ? 'bg-gray-700 hover:bg-gray-600 text-white' 
+                      : 'bg-gray-200 hover:bg-gray-300'
+                  }`}
+                >
+                  Previous
+                </button>
 
-              {paginateRange().map((page, index) =>
-                page === '...' ? (
-                  <span key={index} className="px-2 py-1 text-gray-500">...</span>
-                ) : (
-                  <button
-                    key={index}
-                    onClick={() => setCurrentPage(page)}
-                    className={`px-2 py-1 rounded ${
-                      currentPage === page
-                        ? 'bg-blue-600 text-white'
-                        : 'bg-gray-200 hover:bg-gray-300'
-                    }`}
-                  >
-                    {page}
-                  </button>
-                )
-              )}
+                {paginateRange().map((page, index) =>
+                  page === '...' ? (
+                    <span key={index} className={`px-2 py-1 ${theme === 'dark' ? 'text-gray-400' : 'text-gray-500'}`}>
+                      ...
+                    </span>
+                  ) : (
+                    <button
+                      key={index}
+                      onClick={() => handlePageChange(page)}
+                      className={`px-2 py-1 rounded ${
+                        currentPage === page
+                          ? 'bg-blue-600 text-white'
+                          : theme === 'dark'
+                          ? 'bg-gray-700 hover:bg-gray-600 text-white'
+                          : 'bg-gray-200 hover:bg-gray-300'
+                      }`}
+                    >
+                      {page}
+                    </button>
+                  )
+                )}
 
-              <button
-                onClick={() => setCurrentPage(prev => Math.min(prev + 1, totalPages))}
-                disabled={currentPage === totalPages}
-                className="px-2 py-1 rounded bg-gray-200 hover:bg-gray-300 disabled:opacity-50"
-              >
-                Next
-              </button>
-            </div>
+                <button
+                  onClick={() => handlePageChange(Math.min(currentPage + 1, totalPages))}
+                  disabled={currentPage === totalPages}
+                  className={`px-2 py-1 rounded disabled:opacity-50 ${
+                    theme === 'dark' 
+                      ? 'bg-gray-700 hover:bg-gray-600 text-white' 
+                      : 'bg-gray-200 hover:bg-gray-300'
+                  }`}
+                >
+                  Next
+                </button>
+              </div>
+            )}
           </>
         )}
       </main>

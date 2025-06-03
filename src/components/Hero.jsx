@@ -4,8 +4,8 @@ import { Link } from 'react-router-dom';
 const Hero = () => {
   return (
     <div
-      className="relative bg-cover bg-center text-white"
-      style={{ backgroundImage: "url('assets/images/hero-bg.webp')" }} // ganti path sesuai lokasi gambar
+      className="relative bg-cover bg-left text-white bg-blue-600"
+      
     >
       {/* Overlay gelap supaya teks terlihat jelas */}
       <div className="absolute inset-0 bg-black bg-opacity-50"></div>
