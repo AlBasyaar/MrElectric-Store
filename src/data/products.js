@@ -1468,7 +1468,7 @@ export const products = [
   },
   {
     id: 59,
-    name: "Lampu Downlight LED Morgen Grand Series Outbow OB Bulat 6W 12W 18W 3000K 6500K Panel Plafon OB Bergaransi",
+    name: "Lampu Downlight LED Morgen Grand Series Outbow OB Bulat",
     price: "31.600 - Rp65.900",
     shortDescription: "Lampu Downlight LED Morgen Grand Series Outbow OB Bulat 6W 12W 18W 3000K 6500K Panel Plafon OB Bergaransi",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
@@ -1493,7 +1493,7 @@ export const products = [
   },
   {
     id: 60,
-    name: "Lampu LED Pion T5 1Dus/1Karton isi 120pcs Bohlam Capsule E27 Harga Grosir Untuk Jualan Hemat Energi",
+    name: "Lampu LED Pion T5 1Dus/1Karton isi 120pcs Bohlam Capsule E27",
     price: "295.000",
     shortDescription: "Lampu LED Pion T5 1Dus/1Karton isi 120pcs Bohlam Capsule E27 Harga Grosir Untuk Jualan Hemat Energi",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
