@@ -10,7 +10,7 @@ const ProductsPage = () => {
   const { theme } = useTheme();
   const [searchParams, setSearchParams] = useSearchParams();
   
-  // Ambil parameter dari URL
+
   const categoryFilter = searchParams.get('category');
   const pageParam = searchParams.get('page');
   const initialPage = pageParam ? parseInt(pageParam, 10) : 1;
