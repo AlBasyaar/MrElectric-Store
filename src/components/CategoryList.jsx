@@ -7,7 +7,7 @@ const categories = [
     name: 'Elektronik',
     image: '/assets/images/lampu1.jpeg',
     slug: 'elektronik',
-    count: 89,
+    count: 90,
   },
   {
     id: 2,

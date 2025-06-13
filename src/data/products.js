@@ -2268,12 +2268,12 @@ export const products = [
   },
   {
     id: 91,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Senter Tangan LED Tesla 1W TLS 8902 Emergency Recharger Cahaya Putih",
+    price: "14.880",
+    shortDescription: "Senter Tangan LED Tesla 1W TLS 8902 Emergency Recharger Cahaya Putih",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product91.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2288,17 +2288,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Senter-Tangan-LED-Tesla-1W-TLS-8902-Emergency-Recharger-Cahaya-Putih-i.640819968.24537997088",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 92, 
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Senter Tangan Zoom 50W Orenchi OR-7206",
+    price: "48.900",
+    shortDescription: "Senter Tangan Zoom 50W Orenchi OR-7206 Senter Cas Charge SNI Mode Emergency",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product92.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2313,17 +2313,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Senter-Tangan-Zoom-50W-Orenchi-OR-7206-Senter-Cas-Charge-SNI-Mode-Emergency-i.640819968.25544179268",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 93,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Senter Kepala ZOOM Orenchi 50W 65W Jarak Jauh Kabel Type C OR-7202 OR-7203",
+    price: "38.800 - Rp51.000",
+    shortDescription: "Senter Kepala ZOOM Orenchi 50W 65W Jarak Jauh Kabel Type C OR-7202 OR-7203 Baterai Lithium Camping",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product93.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2338,17 +2338,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Senter-Kepala-ZOOM-Orenchi-50W-65W-Jarak-Jauh-Kabel-Type-C-OR-7202-OR-7203-Baterai-Lithium-Camping-i.640819968.24242663611",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 94,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "PAKET 6PCS Senter Tangan LED 1W Tesla TLS-8902 Flashlight Emergency",
+    price: "82.500",
+    shortDescription: "PAKET 6PCS Senter Tangan LED 1W Tesla TLS-8902 Flashlight Emergency",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product94.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2363,17 +2363,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/PAKET-6PCS-Senter-Tangan-LED-1W-Tesla-TLS-8902-Flashlight-Emergency-i.640819968.29266640607",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 95,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Senter Kepala Zoom 85 Watt SmartBright Headlamp OR 7201 Rechargeable",
+    price: "97.700",
+    shortDescription: "Senter Kepala Zoom 85 Watt SmartBright Headlamp OR 7201 Rechargeable Baterai Lithium dengan Kabel USB-C",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product95.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2388,17 +2388,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Senter-Kepala-Zoom-85-Watt-SmartBright-Headlamp-OR-7201-Rechargeable-Baterai-Lithium-dengan-Kabel-USB-C-i.640819968.26933837504",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 96,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Senter Kepala Zoom 120W/Watt Laser Jarak Jauh Headlamp Rechargeable Cahaya Putih 3 Mode Cahaya",
+    price: "144.000",
+    shortDescription: "Senter Kepala Zoom 120W/Watt Laser Jarak Jauh Headlamp Rechargeable Cahaya Putih 3 Mode Cahaya",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/assets/images/product96.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2413,17 +2413,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Senter-Kepala-Zoom-120W-Watt-Laser-Jarak-Jauh-Headlamp-Rechargeable-Cahaya-Putih-3-Mode-Cahaya-i.640819968.27985099648",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 97,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Dutron Fitting Colok + Saklar Lampu Tidur Fitting Lampu saklar On Off",
+    price: "3.450",
+    shortDescription: "Dutron Fitting Colok + Saklar Lampu Tidur Fitting Lampu saklar On Off Switch E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product97.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2438,17 +2438,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Dutron-Fitting-Colok-Saklar-Lampu-Tidur-Fitting-Lampu-saklar-On-Off-Switch-E27-i.640819968.29754350618",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 98,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "PAKET 1DUS Dutron Fitting Colok + Saklar Lampu Tidur Fitting Lampu saklar On Off",
+    price: "21.700 - Rp79.300",
+    shortDescription: "PAKET 1DUS Dutron Fitting Colok + Saklar Lampu Tidur Fitting Lampu saklar On Off Switch E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product98.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2463,17 +2463,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/PAKET-1DUS-Dutron-Fitting-Colok-Saklar-Lampu-Tidur-Fitting-Lampu-saklar-On-Off-Switch-E27-i.640819968.24732997461",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 99,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Fitting Lampu Colok E27 Warna Hitam Colokan Lampu Morgen Fiting",
+    price: "3.400",
+    shortDescription: "Fitting Lampu Colok E27 Warna Hitam Colokan Lampu Morgen Fiting",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product99.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2488,17 +2488,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Fitting-Lampu-Colok-E27-Warna-Hitam-Colokan-Lampu-Morgen-Fiting-i.640819968.25537525242",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 100,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Fitting Plafon Segi Empat Orenchi Bakelite OR 210/ OR 211",
+    price: "4.400",
+    shortDescription: "Fitting Plafon Segi Empat Orenchi Bakelite OR 210/ OR 211 Rumah Lampu Fiting E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product100.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2513,17 +2513,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Fitting-Plafon-Segi-Empat-Orenchi-Bakelite-OR-210-OR-211-Rumah-Lampu-Fiting-E27-i.640819968.28368381289",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 101,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "PAKET 1DUS Fitting Colok Listrik Hitam SNI E27 Fiting Lampu Tidur",
+    price: "18.000 - Rp59.990",
+    shortDescription: "PAKET 1DUS Fitting Colok Listrik Hitam SNI E27 Fiting Lampu Tidur MORGEN MG-603",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product101.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2538,17 +2538,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/PAKET-1DUS-Fitting-Colok-Listrik-Hitam-SNI-E27-Fiting-Lampu-Tidur-MORGEN-MG-603-i.640819968.29408365455",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 102,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Fitting Lampu Kombinasi Dutron E27 Colokan 2 Arah Fiting DV-FGK-01",
+    price: "2.990",
+    shortDescription: "Fitting Lampu Kombinasi Dutron E27 Colokan 2 Arah Fiting DV-FGK-01",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product102.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2563,17 +2563,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Fitting-Lampu-Kombinasi-Dutron-E27-Colokan-2-Arah-Fiting-DV-FGK-01-i.640819968.27607484067",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 103,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Steker Gepeng Hitam ORENCHI OR 3103 Colokan Listrik Kecil",
+    price: "3.000",
+    shortDescription: "Steker Gepeng Hitam ORENCHI OR 3103 Colokan Listrik Kecil",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product103.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2588,17 +2588,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Steker-Gepeng-Hitam-ORENCHI-OR-3103-Colokan-Listrik-Kecil-i.640819968.29268381378",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 104,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Fitting Gantung Morgen MG-601 SNI Hitam Fiting",
+    price: "3.200",
+    shortDescription: "Fitting Gantung Morgen MG-601 SNI Hitam Fiting",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product104.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2613,17 +2613,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Fitting-Gantung-Morgen-MG-601-SNI-Hitam-Fiting-i.640819968.21443598352",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 105,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Steker Arde Bulat ORENCHI OR-3111 SNI",
+    price: "19.900 - Rp87.700",
+    shortDescription: "Steker Arde Bulat ORENCHI OR-3111 SNI – Colokan Listrik Kuningan Anti Panas Harga Grosir",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product105.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2638,17 +2638,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Steker-Arde-Bulat-ORENCHI-OR-3111-SNI-%E2%80%93-Colokan-Listrik-Kuningan-Anti-Panas-Harga-Grosir-i.640819968.42251955396",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 106,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Fitting Gantung Kap Payung WD Kecil Kap Lampu Gantung Kuningan",
+    price: "10.650",
+    shortDescription: "Fitting Gantung Kap Payung WD Kecil Kap Lampu Gantung Kuningan",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product106.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2663,17 +2663,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Fitting-Gantung-Kap-Payung-WD-Kecil-Kap-Lampu-Gantung-Kuningan-i.640819968.26464202354",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 107,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Fitting Lampu Plafon Bulat Dutron Putih Kecil DV-FPS-03-HG",
+    price: "2.680",
+    shortDescription: "Fitting Lampu Plafon Bulat DUTRON Putih Kecil DV-FPS-03-HG",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product107.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2688,17 +2688,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Fitting-Lampu-Plafon-Bulat-DUTRON-Putih-Kecil-DV-FPS-03-HG-i.640819968.10997878442",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 108,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "PAKET 1DUS Fitting Lampu Kombinasi Dutron E27 Colokan 2 Arah Fiting DV-FGK-01",
+    price: "62.500",
+    shortDescription: "PAKET 1DUS 24pcs Fitting Lampu Kombinasi Dutron E27 Colokan 2 Arah Fiting DV-FGK-01",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product108.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2713,17 +2713,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/PAKET-1DUS-24pcs-Fitting-Lampu-Kombinasi-Dutron-E27-Colokan-2-Arah-Fiting-DV-FGK-01-i.640819968.27155145733",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 109,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Fitting Lampu Plafon Segi 4 New Morgen MG-621 MG-632 Oval Persegi Cream Rumah Lampu",
+    price: "4.950",
+    shortDescription: "Fitting Lampu Plafon Segi 4 New Morgen MG-621 MG-632 Oval Persegi Cream Rumah Lampu SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product109.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2738,17 +2738,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Fitting-Lampu-Plafon-Segi-4-New-Morgen-MG-621-MG-632-Oval-Persegi-Cream-Rumah-Lampu-SNI-i.640819968.19143705279",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 110,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Steker T Arde Dual USB Dutron Multifungsi 10A Stop Kontak Multi DH STA 01 USB",
+    price: "20.900",
+    shortDescription: "Steker T Arde Dual USB Dutron Multifungsi 10A Stop Kontak Multi DH STA 01 USB SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product110.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2763,17 +2763,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Steker-T-Arde-Dual-USB-Dutron-Multifungsi-10A-Stop-Kontak-Multi-DH-STA-01-USB-SNI-i.640819968.29462998274",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 111,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Steker Arde Saklar Switch + Lampu Orenchi OR 3102 SNI Kuningan",
+    price: "11.000",
+    shortDescription: "Steker Arde Saklar Switch + Lampu Orenchi OR 3102 SNI Kuningan",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product111.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2788,17 +2788,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Steker-Arde-Saklar-Switch-Lampu-Orenchi-OR-3102-SNI-Kuningan-i.640819968.28268378817",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 112,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Morgen IB Saklar Engkel + Stop Kontak Arde MG-8853",
+    price: "11.000",
+    shortDescription: "Morgen IB Saklar Engkel + Stop Kontak Arde MG-8853",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product112.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2813,17 +2813,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Morgen-IB-Saklar-Engkel-Stop-Kontak-Arde-MG-8853-i.640819968.13496266336",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 113,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Steker Arde Switch DUTRON Kepala Colokan Saklar DV SSL 01 ON OFF",
+    price: "8.600",
+    shortDescription: "Steker Arde Switch DUTRON Kepala Colokan Saklar DV SSL 01 ON OFF SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product113.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2838,17 +2838,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Steker-Arde-Switch-DUTRON-Kepala-Colokan-Saklar-DV-SSL-01-ON-OFF-SNI-i.640819968.26107623221",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 114,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "PAKET 1DUS Saklar Series OB Morgen Engkel - Seri - Stop Kontak Tempel SNI White Model",
+    price: "60.600 - Rp99.900",
+    shortDescription: "PAKET 1DUS Saklar Series OB Morgen Engkel - Seri - Stop Kontak Tempel SNI White Model",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product114.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2863,17 +2863,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/PAKET-1DUS-Saklar-Series-OB-Morgen-Engkel-Seri-Stop-Kontak-Tempel-SNI-White-Model-i.640819968.26019792640",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 115,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Kabel Roll Listrik 4 Lubang + Saklar Terminal Box Colokan Kuningan Panjang 6Yard SNI",
+    price: "51.200",
+    shortDescription: "Kabel Roll Listrik 4 Lubang + Saklar Terminal Box Colokan Kuningan Panjang 6Yard SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product115.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2888,17 +2888,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Kabel-Roll-Listrik-4-Lubang-Saklar-Terminal-Box-Colokan-Kuningan-Panjang-6Yard-SNI-i.640819968.43902446987",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 116,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Paket 1DUS Steker Gepeng Hitam ORENCHI OR 3103 Colokan Listrik Kecil",
+    price: "70.000",
+    shortDescription: "Paket 1DUS Steker Gepeng Hitam ORENCHI OR 3103 Colokan Listrik Kecil",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product116.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2913,17 +2913,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Paket-1DUS-Steker-Gepeng-Hitam-ORENCHI-OR-3103-Colokan-Listrik-Kecil-i.640819968.27516819212",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 117,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Steker Gepeng Dutron Hitam DV SBA 01 Colokan Listrik SNI",
+    price: "1.280",
+    shortDescription: "Steker Gepeng Dutron Hitam DV SBA 01 Colokan Listrik SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product117.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2938,17 +2938,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Steker-Gepeng-Dutron-Hitam-DV-SBA-01-Colokan-Listrik-SNI-i.640819968.28362991563",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 118,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Stop Kontak Arde Myvo Kabel Saklar 2-3-4-5 Lubang 1,5M 3M 5M 10M SNI Colokan Listrik",
+    price: "13.990 - Rp38.000",
+    shortDescription: "Stop Kontak Arde Myvo Kabel Saklar 2-3-4-5 Lubang 1,5M 3M 5M 10M SNI Colokan Listrik",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product118.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2963,17 +2963,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Stop-Kontak-Arde-Myvo-Kabel-Saklar-2-3-4-5-Lubang-1-5M-3M-5M-10M-SNI-Colokan-Listrik-i.640819968.15432927237",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 119,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Morgen IB Saklar Seri Ganda Double Switch MG-8852 SNI M Series",
+    price: "8.900",
+    shortDescription: "Morgen IB Saklar Seri Ganda Double Switch MG-8852 SNI M Series",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product119.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2988,17 +2988,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Morgen-IB-Saklar-Seri-Ganda-Double-Switch-MG-8852-SNI-M-Series-i.640819968.17684555476",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 120,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Steker T Multi Dutron 4 Lubang Datar Colokan DV-STA-01-TD-HG",
+    price: "6.990 - Rp13.890",
+    shortDescription: "Steker T Multi Dutron 4 Lubang Datar Colokan DV-STA-01-TD-HG",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product120.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3013,17 +3013,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Steker-T-Multi-Dutron-4-Lubang-Datar-Colokan-DV-STA-01-TD-HG-i.640819968.25034540921",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 121,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Steker T Arde Warna Orenchi OR3113 SNI Kuningan Colokan Cabang 3",
+    price: "14.000",
+    shortDescription: "Steker T Arde Warna Orenchi OR3113 SNI Kuningan Colokan Cabang 3",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product121.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3038,17 +3038,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Steker-T-Arde-Warna-Orenchi-OR3113-SNI-Kuningan-Colokan-Cabang-3-i.640819968.26268369527",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 122,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "PAKET 1DUS Steker Arde Switch DUTRON Kepala Colokan Saklar DV SSL 01 ON OFF",
+    price: "57.000 - Rp112.000",
+    shortDescription: "PAKET 1DUS Steker Arde Switch DUTRON Kepala Colokan Saklar DV SSL 01 ON OFF SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product122.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3063,17 +3063,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/PAKET-1DUS-Steker-Arde-Switch-DUTRON-Kepala-Colokan-Saklar-DV-SSL-01-ON-OFF-SNI-i.640819968.27857617018",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 123,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Steker Kontra Arde Dutron Bulat Putih Female SNI Colokan Contra DH-SKA-01",
+    price: "4.890",
+    shortDescription: "Steker Kontra Arde Dutron Bulat Putih Female SNI Colokan Contra DH-SKA-01",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "kelistrikan",
+    image: "/assets/images/product123.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3088,7 +3088,7 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Steker-Kontra-Arde-Dutron-Bulat-Putih-Female-SNI-Colokan-Contra-DH-SKA-01-i.640819968.28107408667",
     tiktokLink: "https://tiktok.com",
   },
   {
@@ -3097,7 +3097,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3122,7 +3122,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3147,7 +3147,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3172,7 +3172,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3197,7 +3197,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3222,7 +3222,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3247,7 +3247,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3272,7 +3272,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3297,7 +3297,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3322,7 +3322,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3347,7 +3347,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3372,7 +3372,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3397,7 +3397,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3422,7 +3422,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3447,7 +3447,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3472,7 +3472,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3497,7 +3497,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3522,7 +3522,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3547,7 +3547,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3572,7 +3572,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3597,7 +3597,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3622,7 +3622,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3647,7 +3647,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3672,7 +3672,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3697,7 +3697,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3722,7 +3722,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3747,7 +3747,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3772,7 +3772,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3797,7 +3797,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3822,7 +3822,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3847,7 +3847,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3872,7 +3872,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3897,7 +3897,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3922,7 +3922,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3947,7 +3947,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3972,7 +3972,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -3997,7 +3997,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4022,7 +4022,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4047,7 +4047,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4072,7 +4072,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4097,7 +4097,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4122,7 +4122,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4147,7 +4147,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4172,7 +4172,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4197,7 +4197,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4222,7 +4222,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4247,7 +4247,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4272,7 +4272,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4297,7 +4297,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4322,7 +4322,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4347,7 +4347,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4372,7 +4372,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4397,7 +4397,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4422,7 +4422,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4447,7 +4447,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4472,7 +4472,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4497,7 +4497,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4522,7 +4522,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4547,7 +4547,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4572,7 +4572,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4597,7 +4597,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4622,7 +4622,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4647,7 +4647,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4672,7 +4672,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4697,7 +4697,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4722,7 +4722,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4747,7 +4747,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4772,7 +4772,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4797,7 +4797,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4822,7 +4822,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4847,7 +4847,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4872,7 +4872,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4897,7 +4897,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4922,7 +4922,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4947,7 +4947,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4972,7 +4972,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -4997,7 +4997,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5022,7 +5022,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5047,7 +5047,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5072,7 +5072,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5097,7 +5097,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5122,7 +5122,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5147,7 +5147,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5172,7 +5172,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5197,7 +5197,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5222,7 +5222,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5247,7 +5247,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5272,7 +5272,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5297,7 +5297,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5322,7 +5322,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5347,7 +5347,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",  
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5372,7 +5372,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5397,7 +5397,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5422,7 +5422,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5447,7 +5447,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5472,7 +5472,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5497,7 +5497,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5522,7 +5522,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5547,7 +5547,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5572,7 +5572,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5597,7 +5597,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5622,7 +5622,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5647,7 +5647,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5672,7 +5672,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5697,7 +5697,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5722,7 +5722,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5747,7 +5747,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5772,7 +5772,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5797,7 +5797,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5822,7 +5822,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5847,7 +5847,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5872,7 +5872,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5897,7 +5897,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5922,7 +5922,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5947,7 +5947,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5972,7 +5972,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -5997,7 +5997,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -6022,7 +6022,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -6047,7 +6047,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -6072,7 +6072,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -6097,7 +6097,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -6122,7 +6122,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -6147,7 +6147,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -6172,7 +6172,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -6197,7 +6197,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -6222,7 +6222,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -6247,7 +6247,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -6272,7 +6272,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -6297,7 +6297,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -6322,7 +6322,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -6347,7 +6347,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -6372,7 +6372,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -6397,7 +6397,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -6422,7 +6422,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -6447,7 +6447,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "elektronik",
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
