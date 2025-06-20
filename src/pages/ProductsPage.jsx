@@ -27,7 +27,7 @@ const ProductsPage = () => {
     }
     return 0;
   };
-  
+
   useEffect(() => {
     let results = categoryFilter
       ? products.filter(product =>
@@ -81,12 +81,12 @@ const ProductsPage = () => {
 
     setSearchParams(newSearchParams);
   };
-  
+
   const handlePageChange = (page) => {
     setCurrentPage(page);
     updateURLParams(page);
   };
-  
+
   const totalPages = Math.ceil(filteredProducts.length / productsPerPage);
   const startIndex = (currentPage - 1) * productsPerPage;
   const currentProducts = filteredProducts.slice(startIndex, startIndex + productsPerPage);
@@ -115,7 +115,7 @@ const ProductsPage = () => {
 
     return pages;
   };
-  
+
   return (
     <div className={`min-h-screen flex flex-col ${theme === 'dark' ? 'bg-gray-800 text-white' : 'bg-white text-gray-800'}`} >
       <Header />
@@ -123,25 +123,29 @@ const ProductsPage = () => {
       <main className="flex-grow container mx-auto px-4 py-8">
         <div className="mb-8 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <div></div>
-          
-          <div className="flex space-x-4">
-            <input
-              type="text"
-              placeholder="Cari produk..."
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-              className="border rounded px-3 py-1"
-            />
-            <select
-              value={sortOrder}
-              onChange={(e) => setSortOrder(e.target.value)}
-              className={`border rounded px-3 py-1 ${theme === 'dark' ? 'text-gray-800' : 'text-gray-800'}`}
-            >
-              <option value="">Urutkan</option>
-              <option value="asc">Harga Terendah</option>
-              <option value="desc">Harga Tertinggi</option>
-            </select>
-          </div>
+
+          {/* Hanya tampilkan search dan sort kalau category bukan "Package" */}
+          {categoryFilter?.toLowerCase() !== 'package' && (
+            <div className="flex space-x-4">
+              <input
+                type="text"
+                placeholder="Cari produk..."
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                className="border rounded px-3 py-1"
+              />
+              <select
+                value={sortOrder}
+                onChange={(e) => setSortOrder(e.target.value)}
+                className={`border rounded px-3 py-1 ${theme === 'dark' ? 'text-gray-800' : 'text-gray-800'}`}
+              >
+                <option value="">Urutkan</option>
+                <option value="asc">Harga Terendah</option>
+                <option value="desc">Harga Tertinggi</option>
+              </select>
+            </div>
+          )}
+
         </div>
 
         <div className="mb-8">
@@ -170,8 +174,8 @@ const ProductsPage = () => {
                 <button
                   onClick={() => handlePageChange(Math.max(currentPage - 1, 1))}
                   disabled={currentPage === 1}
-                  className={`px-2 py-1 rounded disabled:opacity-50 ${theme === 'dark' 
-                    ? 'bg-gray-700 hover:bg-gray-600 text-white' 
+                  className={`px-2 py-1 rounded disabled:opacity-50 ${theme === 'dark'
+                    ? 'bg-gray-700 hover:bg-gray-600 text-white'
                     : 'bg-gray-200 hover:bg-gray-300'}`}
                 >
                   Previous
@@ -203,8 +207,8 @@ const ProductsPage = () => {
                 <button
                   onClick={() => handlePageChange(Math.min(currentPage + 1, totalPages))}
                   disabled={currentPage === totalPages}
-                  className={`px-2 py-1 rounded disabled:opacity-50 ${theme === 'dark' 
-                    ? 'bg-gray-700 hover:bg-gray-600 text-white' 
+                  className={`px-2 py-1 rounded disabled:opacity-50 ${theme === 'dark'
+                    ? 'bg-gray-700 hover:bg-gray-600 text-white'
                     : 'bg-gray-200 hover:bg-gray-300'}`}
                 >
                   Next
