@@ -6,7 +6,7 @@ export const products = [
     shortDescription: "VISERO VINTAGE 5W 7W 9W 12W 15W 18W 21W Lampu LED Bohlam Bergaransi Cahaya Putih E27",
     description: "TV LED Smart 43 inch ini hadir dengan resolusi 4K Ultra HD yang menghadirkan kualitas gambar yang jernih dan detail. Dilengkapi dengan fitur smart TV yang memungkinkan Anda mengakses berbagai aplikasi streaming populer. Speaker built-in dengan teknologi Dolby Audio memberikan pengalaman audio yang memukau.",
     category: "elektronik",
-    image: "/assets/images/product1.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750386530/product1_xsfbko.webp",
     specifications: {
       "Ukuran Layar": "43 inch",
       "Resolusi": "3840 x 2160 (4K)",
@@ -21,14 +21,6 @@ export const products = [
     },
     shopeeLink: "https://shopee.co.id/VISERO-VINTAGE-5W-7W-9W-12W-15W-18W-21W-Lampu-LED-Bohlam-Bergaransi-Cahaya-Putih-E27-i.640819968.24202994992",
     tiktokLink: "https://tiktok.com",
-    testimonials: [
-      {
-        name: "Ahmad Ridwan",
-        rating: 5,
-        avatar: "/assets/images/avatar-1.jpg",
-        comment: "Kualitas gambar sangat bagus dan jernih. Setup mudah dan cepat. Sangat puas dengan pembelian ini!"
-      },
-    ]
   },
   {
     id: 2,
@@ -37,7 +29,7 @@ export const products = [
     shortDescription: "Lampu LED Visero Vintage 5W 7W 9W 12W 15W 18W 21W Bohlam Cahaya Putih Bulb Bergaransi E27",
     description: "Blender multifungsi dengan kapasitas 2 liter ini memiliki desain modern dan kokoh. Dilengkapi dengan 5 tingkat kecepatan yang dapat disesuaikan dengan kebutuhan Anda. Material tabung dari kaca tebal yang tahan lama dan mudah dibersihkan. Cocok untuk membuat jus, smoothie, menggiling daging, dan berbagai kebutuhan dapur lainnya.",
     category: "elektronik",
-    image: "/assets/images/product2.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750386531/product2_cykz5p.webp",
     specifications: {
       "Kapasitas": "2 Liter",
       "Material": "Kaca & Stainless Steel",
@@ -51,14 +43,6 @@ export const products = [
     },
     shopeeLink: "https://shopee.co.id/Lampu-LED-Visero-Vintage-5W-7W-9W-12W-15W-18W-21W-Bohlam-Cahaya-Putih-Bulb-Bergaransi-E27-i.640819968.28123264227",
     tiktokLink: "https://tiktok.com",
-    testimonials: [
-      {
-        name: "Rini Kusuma",
-        rating: 5,
-        avatar: "/assets/images/avatar-3.jpg",
-        comment: "Blender ini sangat kuat dan hasil smoothienya halus. Material kacanya juga terasa kokoh dan premium."
-      },
-    ]
   },
   {
     id: 3,
@@ -67,7 +51,7 @@ export const products = [
     shortDescription: "PAKET 10PCS PANALED ALTIS 5W 7W 9W 12W 15W 18W 23W GARANSI LAMPU LED BULB BOHLAM BERGARANSI",
     description: "Sepatu running seri X3 dirancang khusus untuk pelari dengan teknologi bantalan yang memberikan kenyamanan maksimal saat berlari. Material mesh breathable menjaga kaki tetap sejuk selama aktivitas. Outsole karet anti-slip memberikan cengkeraman yang baik di berbagai permukaan. Desain modern dan stylish cocok digunakan untuk olahraga maupun casual.",
     category: "elektronik",
-    image: "/assets/images/product3.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750386533/product3_k2mgou.webp",
     specifications: {
       "Material Upper": "Mesh Breathable",
       "Material Sol": "Karet Anti-Slip",
@@ -78,14 +62,6 @@ export const products = [
     },
     shopeeLink: "https://shopee.co.id/PAKET-10PCS-PANALED-ALTIS-5W-7W-9W-12W-15W-18W-23W-GARANSI-LAMPU-LED-BULB-BOHLAM-BERGARANSI-i.640819968.28724734433",
     tiktokLink: "https://tiktok.com",
-    testimonials: [
-      {
-        name: "Dian Purnama",
-        rating: 5,
-        avatar: "/assets/images/avatar-5.jpg",
-        comment: "Sepatu ringan dan nyaman dipakai lari jarak jauh. Sol empuk dan tidak bikin pegal."
-      }
-    ]
   },
   {
     id: 4,
@@ -94,7 +70,7 @@ export const products = [
     shortDescription: "Visero Vintage 1 Dus/1 Koli Lampu LED 5W 7W 9W 12W 15W 18W 21W Grosir Bohlam SNI Cahaya Putih E27",
     description: "Masker KN95 dengan 5 lapisan filter yang memberikan perlindungan optimal terhadap partikel udara, debu, dan polutan. Desain ergonomis yang pas di wajah dan terdapat klip hidung yang dapat disesuaikan. Nyaman digunakan sepanjang hari dengan earloop elastis yang tidak menyakiti telinga. Kemasan isi 50 pcs yang ekonomis.",
     category: "elektronik",
-    image: "/assets/images/product4.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750386534/product4_lyrq2o.webp",
     specifications: {
       "Jenis": "KN95 / FFP2",
       "Lapisan": "5 Lapisan",
@@ -107,14 +83,6 @@ export const products = [
     },
     shopeeLink: "https://shopee.co.id/Visero-Vintage-1-Dus-1-Koli-Lampu-LED-5W-7W-9W-12W-15W-18W-21W-Grosir-Bohlam-SNI-Cahaya-Putih-E27-i.640819968.26774170295",
     tiktokLink: "https://tiktok.com",
-    testimonials: [
-      {
-        name: "Nurul Hidayah",
-        rating: 5,
-        avatar: "/assets/images/avatar-6.jpg",
-        comment: "Maskernya nyaman dipakai seharian, tidak bikin sakit telinga. Packagingnya juga rapi dan aman."
-      },
-    ]
   },
   {
     id: 5,
@@ -123,7 +91,7 @@ export const products = [
     shortDescription: "Lampu LED Morgen Grand 5W 7W 9W 11W 16W 18W A-Bulb Bohlam Cahaya Putih 6500K SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product5.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750386535/product5_vbss4f.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -148,7 +116,7 @@ export const products = [
     shortDescription: "Philips Essential Multipack 5W 7W 9W 11W Lampu LED Bohlam Cahaya Putih 6500K Beli 3 Gratis 1",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product6.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750386537/product6_ejfug0.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -173,7 +141,7 @@ export const products = [
     shortDescription: "VISERO VINTAGE Lampu Bohlam LED 5W 7W 9W 12W 15W 18W 21 Watt - Bulb Cahaya Putih E27 SNI (SATUAN)",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product7.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750386538/product7_nq61br.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -193,12 +161,12 @@ export const products = [
   },
   {
     id: 8,
-    name: "Lampu LED Visero Vintage Paket 10pcs", 
+    name: "Lampu LED Visero Vintage Paket 10pcs",
     price: "72.200",
     shortDescription: "VISERO VINTAGE 12W Paket 10pcs Lampu Bohlam Led Bulb E27 Cahaya Putih Bergaransi 1 Tahun",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product8.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750386540/product8_ncrqnb.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -223,7 +191,7 @@ export const products = [
     shortDescription: "Lampu LED Capsule Jumbo 60Watt Visero Genix Bohlam Bergaransi 1 Tahun Cahaya Putih SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product9.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750386541/product9_fezfml.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -248,7 +216,7 @@ export const products = [
     shortDescription: "PAKET 20PCS Lampu PION LED T5 T10 T15 T20 Bohlam Capsule Ekonomis Cahaya Putih SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product10.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750386543/product10_c6dz4j.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -273,7 +241,7 @@ export const products = [
     shortDescription: "Paket Campur Lampu LED PION Ekonomis T5 T10 T15 T20 Total 20pcs Bohlam Murah T-Bulb SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product11.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750386544/product11_jycb3b.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -298,7 +266,7 @@ export const products = [
     shortDescription: "Lampu Bohlam LED PION 5W 10W 15W 20W 30W 40WATT Bohlam Kapsul Ekonomis Cahaya Putih SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product12.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750386546/product12_fiydqi.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -323,7 +291,7 @@ export const products = [
     shortDescription: "Lampu LED PION Paket Ekonomis 20pcs Campur Watt – Paket Usaha Buat Jualan Bohlam LED Murah Grosiran",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product13.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750386547/product13_gtdt9l.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -348,7 +316,7 @@ export const products = [
     shortDescription: "PAKET 10PCS Lampu LED PION T5 T10 T15 T20 T30 T40 Bohlam Ekonmis Murah SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product14.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750386549/product14_nlxgle.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -373,7 +341,7 @@ export const products = [
     shortDescription: "Paket Campur 20pcs Visero Vintage Lampu LED 5W 7W 9W 12W Bohlam A Bulb Cahaya Putih SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product15.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750387237/product15_txupzf.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -398,7 +366,7 @@ export const products = [
     shortDescription: "PAKET 5PCS Lampu LED Visero Vintage 5W 7W 9W 12W 15W 18W 21Watt Bohlam Bergaransi Cahaya Putih SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product16.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750387238/product16_qbvlio.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -423,7 +391,7 @@ export const products = [
     shortDescription: "PAKET 10PCS Lampu PION LED Ekonomis T5 T10 T15 T20 T30 T40 Bohlam Cahaya Putih Capsule SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product17.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750387239/product17_v2ms9z.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -448,7 +416,7 @@ export const products = [
     shortDescription: "Lampu Philips LED Essential TrueForce Original 18W 22W 30WAT 40WATT Bohlam Tabung Cahaya Putih SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product18.webp",
+    image: "/https://res.cloudinary.com/dr5pehdsw/image/upload/v1750387241/product18_eikryq.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -473,7 +441,7 @@ export const products = [
     shortDescription: "PAKET 20PCS Lampu LED PION T10 Bohlam Cahaya Putih Ekonomis Capsule",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product19.webp",
+    image: "/assets/images/product19.webphttps://res.cloudinary.com/dr5pehdsw/image/upload/v1750387244/product19_xat8rh.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -498,7 +466,7 @@ export const products = [
     shortDescription: "Lampu LED Bohlam PAKET 20pcs Michilux Lite Ekonomis Cahaya Putih Capsule Hemat Energi E27 SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product20.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750387246/product20_kesymq.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -523,7 +491,7 @@ export const products = [
     shortDescription: "Paket 10pcs Lampu LED Ekonomis Michilux Lite 5W 10W 15W 20W 30W 40W Bohlam Cahaya Putih Capsule E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product21.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750387248/product21_vckd7x.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -548,7 +516,7 @@ export const products = [
     shortDescription: "Bohlam LED Kapsul Visero Diamon PAKET 10PCS 5W 10W 15W 20W Lampu LED Low Voltase Hemat Energi SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product22.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750387250/product22_csavxc.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -573,7 +541,7 @@ export const products = [
     shortDescription: "Lampu LED Visero Diamon Capsule 5W 10W 15W 20W 30W 40W 50W 60WATT Bohlam Low Voltase Bergaransi SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product23.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750387253/product23_lrhqfk.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -598,7 +566,7 @@ export const products = [
     shortDescription: "Lampu LED Bohlam Ekonomis Takasimurah 5W 10W 15W 20W 30W 40WATT Cahaya Putih Kapsul SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product24.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750387255/product24_un4ybd.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -623,7 +591,7 @@ export const products = [
     shortDescription: "Lampu LED Visero Genix T60 4PCS Cahaya Putih Bohlam Capsule Jumbo SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product25.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750387257/product25_mccdqn.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -648,7 +616,7 @@ export const products = [
     shortDescription: "Bohlam Lampu LED Murah Ekonomis PAKET 10PCS Kagawa Eco 5W 10W 15W 25W Hemat Energi Cahaya Putih SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product26.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750387260/product26_num1fz.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -673,7 +641,7 @@ export const products = [
     shortDescription: "Lampu LED Bohlam Capsule Jumbo 20W 30W 40W 50WAT 60WATT Cahaya Putih Visero Genix/Batavia Glory Garansi",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product27.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750387262/product27_u1qfrm.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -698,7 +666,7 @@ export const products = [
     shortDescription: "Lampu LUXEN LED Neo Classic Pack 4pcs 7W 9W 12W 15W Cahaya Putih Bohlam SNI E27 (Beli 3 Gratis 1)",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product28.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750387264/product28_tl3wru.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -723,7 +691,7 @@ export const products = [
     shortDescription: "PAKET 10pcs PANALED VELOZZ LAMPU LED T5/5 WAT WATT SNI CAHAYA PUTIH BOHLAM CAPSULE BY LUBY",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product29.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388065/product29_uwqfsm.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -748,7 +716,7 @@ export const products = [
     shortDescription: "PAKET 4PCS Lampu LED Capsule Jumbo 20W 30W 40W 50W 60W Sumilux Bohlam Bergaransi 1Tahun Hemat Energi",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product30.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388066/product30_xa6uyk.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -773,7 +741,7 @@ export const products = [
     shortDescription: "Lampu LED Capsule Jumbo PAKET 2PCS 20W 30W 40W 50W 60W Bohlam Cahaya Putih Bergaransi E27 SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product31.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388070/product31_ax4cpx.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -798,7 +766,7 @@ export const products = [
     shortDescription: "Paket 20PCS Lampu LED Kagawa EKONOMIS Bohlam Rumah Capsule Cahaya Putih SNI E27 Hemat Energi",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product32.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388072/product32_s41up4.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -823,7 +791,7 @@ export const products = [
     shortDescription: "Paket 4pcs Lampu LED Jumbo Capsule 20W 30W 40W 50WAT 60WATT Bohlam Batavia Glory Bergaransi SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product33.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388075/product33_bqzafj.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -848,7 +816,7 @@ export const products = [
     shortDescription: "PAKET 2PCS Lampu LED Bohlam Jumbo 20W 30W 40W 50WAT 60WATT Cahaya Putih Batavia Glory Bergaransi SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product34.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388078/product34_z48ohi.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -873,7 +841,7 @@ export const products = [
     shortDescription: "Lampu LED Bohlam Capsule Ekonomis 5W 10W 15W 20W 30W 40W PION LED Low Voltase Cahaya Putih SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product35.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388080/product35_tcfeae.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -898,7 +866,7 @@ export const products = [
     shortDescription: "Lampu LED Jumbo 20W 30W 40W 50W 60WAT Bohlam Capsule Bergaransi 1 Tahun Visero Genix Cahaya Putih",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product36.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388083/product36_dufx8s.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -923,7 +891,7 @@ export const products = [
     shortDescription: "Lampu LED Philips Essential 5W 7W 9W 11W 13W 15W LED Bohlam Cahaya Putih 6500K - Hemat Energi",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product37.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388086/product37_gfp4z4.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -948,7 +916,7 @@ export const products = [
     shortDescription: "BELI 3 GRATIS 1 OPPLE Pack 4pcs A-Bulb 7W 9W 12W Lampu LED Daylight Bohlam Cahaya Putih E27 Bergaransi",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product38.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388089/product38_flek3c.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -973,7 +941,7 @@ export const products = [
     shortDescription: "Paket 3PCS Opple EcoSave Original Lampu LED Bohlam Bulb 5W 7W 9W 12W 14W Bergaransi - Putih 6500K",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product39.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388092/product39_tg7wfw.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -998,7 +966,7 @@ export const products = [
     shortDescription: "Lampu LED Rumah Ekonomis KAGAWA ECO 5W 10W 15W 25W Bohlam Capsule Cahaya Putih Hemat Energi SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product40.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388094/product40_hqp4fh.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1023,7 +991,7 @@ export const products = [
     shortDescription: "Lampu Emergency Orenchi 10 15 20 Watt Orenchi Magic Bulb Murah & Terang SNI Bohlam Led",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product41.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388097/product41_jffnyc.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1048,7 +1016,7 @@ export const products = [
     shortDescription: "OPPLE ECOSAVE LAMPU LED BULB 5W 7W 9W 12W 14W SNI GARANSI 1 TAHUN E27 BOHLAM",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product42.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388100/product42_afj8mw.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1073,7 +1041,7 @@ export const products = [
     shortDescription: "Lampu LED Morgen Grand 20W 30W 40W 50WAT Capsule T-Bulb Cahaya Putih 6500K SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product43.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388103/product43_kgvjra.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1098,7 +1066,7 @@ export const products = [
     shortDescription: "Lampu Tidur LED Warna Putih plus Fitting Colok Tempat Lampu - Led 3watt fiting on off Biru Hijau",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product44.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388106/product44_zmjqfp.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1123,7 +1091,7 @@ export const products = [
     shortDescription: "PAKET 1DUS Lampu Philips Essential 5W 7W 9W 13W 15W Lampu LED Bohlam Cahaya Putih 6500K SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product45.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388109/product45_pfq3ga.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1148,7 +1116,7 @@ export const products = [
     shortDescription: "PAKET 3PCS Philips LED Essential Trueforce 18W 22W 30W 40WAT Lampu LED Bohlam Putih E27 SNI Original",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product46.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388111/product46_agcu0z.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1173,7 +1141,7 @@ export const products = [
     shortDescription: "PAKET HEMAT 3PCS Lampu LED Philips Essential 5W 7W 9W 11W 13W 15WAT Bohlam Putih 6500K Original E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product47.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388114/product47_nls3uu.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1192,13 +1160,13 @@ export const products = [
     tiktokLink: "https://tiktok.com",
   },
   {
-    id:  48,
+    id: 48,
     name: "Philips LED Trueforce Essential PAKET 1DUS",
     price: "240.000 - Rp459.800",
     shortDescription: "Philips LED Trueforce Essential PAKET 1DUS Lampu LED Bohlam Cahaya Putih Kapsul Hemat Energi E27 SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product48.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388117/product48_vrxyon.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1223,7 +1191,7 @@ export const products = [
     shortDescription: "PAKET 5pcs Lampu LED Visero Vintage Warm White 9W 12W 15W Bohlam Bulb Cahaya Kuning Bergaransi SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product49.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388120/product49_k3nrds.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1248,7 +1216,7 @@ export const products = [
     shortDescription: "Morgen Pack 4pcs P-Bulb 9W 12W 15W Daylight Lampu LED Stick Bohlam Cahaya Putih E27 Bergaransi",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product50.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388122/product50_cjkywe.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1273,7 +1241,7 @@ export const products = [
     shortDescription: "PAKET 10pcs Morgen Grand 5W 7W 9W 11W 16W 18W Lampu Bohlam LED Bergaransi 1thn Cool Daylight E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product51.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388126/product51_znyntq.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1298,7 +1266,7 @@ export const products = [
     shortDescription: "Lampu LED Sensor Cahaya Matahari 11W 20W Morgen Otomatis Malam Menyala - LIGHT SENSOR SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product52.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388129/product52_jrvpjl.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1323,7 +1291,7 @@ export const products = [
     shortDescription: "PAKET 3PCS Lampu LED Morgen Grand 5W 7W 11W 16W 18W 20W Bohlam Cahaya Putih SNI Bergaransi",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product53.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388132/product53_d2hloe.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1348,7 +1316,7 @@ export const products = [
     shortDescription: "VISERO VINTAGE 15W Paket 10pcs Lampu Bohlam Led Bulb E27 Cahaya Putih Bergaransi 1 Tahun",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product54.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388134/product54_vhhvhp.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1373,7 +1341,7 @@ export const products = [
     shortDescription: "VISERO VINTAGE 5W Paket 10pcs Lampu Bohlam Led Bulb E27 Cahaya Putih Bergaransi 1 Tahun",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product55.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388137/product55_vgcczv.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1398,7 +1366,7 @@ export const products = [
     shortDescription: "SVISERO VINTAGE 21W Paket 8pcs Lampu Bohlam Led Bulb E27 Cahaya Putih Bergaransi 1 Tahun",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product56.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388140/product56_vq9i25.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1423,7 +1391,7 @@ export const products = [
     shortDescription: "OPPLE ECOSAVE LAMPU LED BULB HPB 20W 30W 50W SNI GARANSI 1 TAHUN E27 BOHLAM",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product57.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388143/product57_gpy6pu.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1448,7 +1416,7 @@ export const products = [
     shortDescription: "Paket 10pcs Lampu LED Takasimurah T5 T10 T15 T20 T30 Bohlam Bola Capsule Murah Cahaya Putih SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product58.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388147/product58_ucoplb.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1473,7 +1441,7 @@ export const products = [
     shortDescription: "Lampu Downlight LED Morgen Grand Series Outbow OB Bulat 6W 12W 18W 3000K 6500K Panel Plafon OB Bergaransi",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product59.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388148/product59_vlyavd.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1498,7 +1466,7 @@ export const products = [
     shortDescription: "Lampu LED Pion T5 1Dus/1Karton isi 120pcs Bohlam Capsule E27 Harga Grosir Untuk Jualan Hemat Energi",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product60.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388151/product60_vnipp8.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1523,7 +1491,7 @@ export const products = [
     shortDescription: "VISERO VINTAGE 18W Paket 10pcs Lampu Bohlam Led Bulb E27 Cahaya Putih Bergaransi 1 Tahun",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product61.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388154/product61_n09rq7.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1548,7 +1516,7 @@ export const products = [
     shortDescription: "Paket 10pcs Visero Genix T20 Lampu LED Cahaya Putih Bohlam Capsule Bergaransi SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product62.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388157/product62_tn4xkn.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1573,7 +1541,7 @@ export const products = [
     shortDescription: "Downlight Philips LED Eridani Essential 3,5W 7W 10W 14WAT 23WATT Lampu Plafon Inbow Tempel SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product63.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388160/product63_xixuhj.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1598,7 +1566,7 @@ export const products = [
     shortDescription: "OPPLE ECOSAVE LAMPU LED BULB 5W 7W 9W 12W 14W SNI GARANSI 1 TAHUN E27 BOHLAM PAKET 10 PCS",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product64.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388163/product64_kljbfo.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1623,7 +1591,7 @@ export const products = [
     shortDescription: "Lampu Downlight LED 3 Warna (Color) 9W 15W 24W Morgen Panel Plafon 3000K 4000K 6500K Bergaransi",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product65.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388166/product65_nkz5xh.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1642,13 +1610,13 @@ export const products = [
     tiktokLink: "https://tiktok.com",
   },
   {
-    id:  66,
+    id: 66,
     name: "Lampu Downlight Morgen LED Grand IB Round 4W 5W 9W 12W 18W Panel Plafon Bulat Inbow",
     price: "18.800 - Rp56.100",
     shortDescription: "Lampu Downlight Morgen LED Grand IB Round 4W 5W 9W 12W 18W Panel Plafon Bulat Inbow 3000K 4000K 6500K SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product66.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388169/product66_uozsyl.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1673,7 +1641,7 @@ export const products = [
     shortDescription: "Lampu LED Morgen Grand 30W 4PCS Cahaya Putih Capsule SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product67.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388172/product67_l5ub0c.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1698,9 +1666,9 @@ export const products = [
     shortDescription: "PILA LED Lampu Bohlam PAKET 12PCS/1DUS 7W 9W 11W 15W Garansi 2 Tahun Cahaya Putih 6500K Hemat Energi",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product68.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388175/product68_mcka2l.webp",
     specifications: {
-      "Layar": "6.67 inch AMOLED FHD+", 
+      "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
       "RAM": "6GB",
       "Memori Internal": "128GB (Expandable up to 1TB)",
@@ -1723,7 +1691,7 @@ export const products = [
     shortDescription: "PAKET 4PCS Downlight Inbow Morgen LED 4W 5W 9W 12W 18W Panel Plafon Bulat Garansi 1 Tahun SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product69.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388177/product69_uomagr.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1748,7 +1716,7 @@ export const products = [
     shortDescription: "Lampu Sorot Luby LBKS 503 10W 20W 30W 50W 100W IP65 Lampu Tembak LED Flood Light Bergaransi 1 Tahun",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product70.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388181/product70_vofgmy.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1767,13 +1735,13 @@ export const products = [
     tiktokLink: "https://tiktok.com",
   },
   {
-    id:  71,
+    id: 71,
     name: "PAKET 4PCS Sensor Cahaya Matahari 20W MORGEN Lampu Led Otomatis",
     price: "191.500",
     shortDescription: "PAKET 4PCS Sensor Cahaya Matahari 20W MORGEN Lampu Led Otomatis Malam Menyala - LIGHT SENSOR",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product71.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388184/product71_kbke5r.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1798,7 +1766,7 @@ export const products = [
     shortDescription: "Lampu LED STRIP Selang 10 Yard 220V Single Color Putih Biru Merang Kuning Plus Adaptor",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product72.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388187/product72_rfjdbv.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1823,7 +1791,7 @@ export const products = [
     shortDescription: "Myvo Lampu LED Strip 2835 RGB 10yard (9meter) 48SMD Lampu Hias Plus Adaptor",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product73.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388190/product73_btohrd.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1842,13 +1810,13 @@ export const products = [
     tiktokLink: "https://tiktok.com",
   },
   {
-    id:  74,
+    id: 74,
     name: "PAKET 10PCS Lampu LED PION T5 Bohlam Cahaya Putih Ekonomis E27 SNI",
     price: "28.000",
     shortDescription: "PAKET 10PCS Lampu LED PION T5 Bohlam Cahaya Putih Ekonomis E27 SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product74.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388193/product74_q7bib7.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1873,7 +1841,7 @@ export const products = [
     shortDescription: "PAKET 10PCS Lampu LED Kagawa ECO T25 Bohlam Cahaya Putih Ekonomis E27 SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product75.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388196/product75_xebkel.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1898,7 +1866,7 @@ export const products = [
     shortDescription: "Lampu Led Panaled Premium 5Watt 10Wat 15W 20W 30W Kapsul T Bulb Bohlam Murah BY LUBY",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product76.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388199/product76_rv0iru.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1923,7 +1891,7 @@ export const products = [
     shortDescription: "Lampu LED Luby Capsule 5W Cahaya Putih Paket 10pcs dan 6pcs Bohlam T-Bulb 6500K Garansi 1 Tahun",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product77.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388202/product77_c75h4h.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1948,7 +1916,7 @@ export const products = [
     shortDescription: "SPAKET 3PCS PILA LED Lampu Bohlam Bulb Cahaya Putih 7W 9W 11W 15W Hemat Energi Garansi 2 Tahun 6500K",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product78.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388217/product78_rilj7l.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1973,7 +1941,7 @@ export const products = [
     shortDescription: "PAKET HEMAT 4PCS Lampu LED 40W Morgen Grand Cahaya Putih Capsule SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product79.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388220/product79_ti2nzj.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -1998,7 +1966,7 @@ export const products = [
     shortDescription: "Downlight Myvo Panel Inbow 6W 9W 12W 15W 3 WARNA (BIRU PUTIH UNGU) SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product80.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388224/product80_oj4dll.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2023,7 +1991,7 @@ export const products = [
     shortDescription: "Lampu LED Downlight 3 Warna (Color) 6W 9W 12W Myvo Black Noir Glass Panel Plafon SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product81.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388225/product81_my7edl.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2048,7 +2016,7 @@ export const products = [
     shortDescription: "PANALED ALTIS 5 Watt 1 DUS / 1 KARTON ISI 100 Lampu LED BULB 5W Bohlam E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product82.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388230/product82_m1xqgd.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2067,13 +2035,13 @@ export const products = [
     tiktokLink: "https://tiktok.com",
   },
   {
-    id:  83,
+    id: 83,
     name: "PAKET 4PCS Sensor Cahaya Matahari 11W MORGEN Lampu LED Otomatis",
     price: "111.000",
     shortDescription: "PAKET 4PCS Sensor Cahaya Matahari 11WAT MORGEN Lampu LED Otomatis Malam Menyala - LIGHT SENSOR 11W",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product83.webp ",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388233/product83_gvxq9a.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2098,7 +2066,7 @@ export const products = [
     shortDescription: "Lampu LED Cahaya Kuning - Warm White Visero Vintage 9W 12W 15W 3000K SNI Bergaransi Paket 3PCS",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product84.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388236/product84_ej74s7.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2123,7 +2091,7 @@ export const products = [
     shortDescription: "VISERO VINTAGE 9W Paket 10pcs Lampu Bohlam Led Bulb E27 Cahaya Putih Bergaransi 1 Tahun",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product85.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388242/product85_fbftn7.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2148,7 +2116,7 @@ export const products = [
     shortDescription: "VISERO VINTAGE 7W Paket 10pcs Lampu Bohlam Led Bulb E27 Cahaya Putih Bergaransi 1 Tahun",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product86.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388246/product86_qrkhna.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2173,7 +2141,7 @@ export const products = [
     shortDescription: "Paket Usaha Campur 40PCS Lampu LED PION T5 T10 T15 T20 Bohlam Cahaya Putih E27 Capsule",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product87.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388249/product87_uy1sdm.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2198,7 +2166,7 @@ export const products = [
     shortDescription: "Lampu Bohlam LED Capsule Sumilux Nayatech 20W 30W 40W 50W 60W Putih 6500K Bergaransi - E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product88.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388253/product88_dyfkss.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2223,7 +2191,7 @@ export const products = [
     shortDescription: "PAKET 10 PCS Lampu LED PION T10 Bohlam Cahaya Putih Ekonomis E27 SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product89.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388257/product89_neqkpj.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2248,7 +2216,7 @@ export const products = [
     shortDescription: "Paket 1DUS Fitting Plafon Segi Empat Cream E27 Morgen MG-621 MG-632 Rumah Lampu fiting",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product90.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388260/product90_ox3oa1.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2273,7 +2241,7 @@ export const products = [
     shortDescription: "Senter Tangan LED Tesla 1W TLS 8902 Emergency Recharger Cahaya Putih",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product91.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388264/product91_rpt0rw.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2292,13 +2260,13 @@ export const products = [
     tiktokLink: "https://tiktok.com",
   },
   {
-    id: 92, 
+    id: 92,
     name: "Senter Tangan Zoom 50W Orenchi OR-7206",
     price: "48.900",
     shortDescription: "Senter Tangan Zoom 50W Orenchi OR-7206 Senter Cas Charge SNI Mode Emergency",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product92.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388268/product92_flmkv5.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2323,7 +2291,7 @@ export const products = [
     shortDescription: "Senter Kepala ZOOM Orenchi 50W 65W Jarak Jauh Kabel Type C OR-7202 OR-7203 Baterai Lithium Camping",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product93.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388271/product93_tvytm2.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2348,7 +2316,7 @@ export const products = [
     shortDescription: "PAKET 6PCS Senter Tangan LED 1W Tesla TLS-8902 Flashlight Emergency",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product94.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388275/product94_b2k2sa.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2373,7 +2341,7 @@ export const products = [
     shortDescription: "Senter Kepala Zoom 85 Watt SmartBright Headlamp OR 7201 Rechargeable Baterai Lithium dengan Kabel USB-C",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product95.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388279/product95_rs6dmf.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2398,7 +2366,7 @@ export const products = [
     shortDescription: "Senter Kepala Zoom 120W/Watt Laser Jarak Jauh Headlamp Rechargeable Cahaya Putih 3 Mode Cahaya",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "elektronik",
-    image: "/assets/images/product96.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388282/product96_xjj0dg.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2423,7 +2391,7 @@ export const products = [
     shortDescription: "Dutron Fitting Colok + Saklar Lampu Tidur Fitting Lampu saklar On Off Switch E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product97.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388286/product97_vrzbcy.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2448,7 +2416,7 @@ export const products = [
     shortDescription: "PAKET 1DUS Dutron Fitting Colok + Saklar Lampu Tidur Fitting Lampu saklar On Off Switch E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product98.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388290/product98_zxbijo.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2473,7 +2441,7 @@ export const products = [
     shortDescription: "Fitting Lampu Colok E27 Warna Hitam Colokan Lampu Morgen Fiting",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product99.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388294/product99_r4yfrq.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2498,7 +2466,7 @@ export const products = [
     shortDescription: "Fitting Plafon Segi Empat Orenchi Bakelite OR 210/ OR 211 Rumah Lampu Fiting E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product100.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388297/product100_khxjzv.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2523,7 +2491,7 @@ export const products = [
     shortDescription: "PAKET 1DUS Fitting Colok Listrik Hitam SNI E27 Fiting Lampu Tidur MORGEN MG-603",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product101.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388301/product101_qwfimu.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2548,7 +2516,7 @@ export const products = [
     shortDescription: "Fitting Lampu Kombinasi Dutron E27 Colokan 2 Arah Fiting DV-FGK-01",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product102.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388305/product102_dna4gq.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2573,7 +2541,7 @@ export const products = [
     shortDescription: "Steker Gepeng Hitam ORENCHI OR 3103 Colokan Listrik Kecil",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product103.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388309/product103_cfdfwk.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2598,7 +2566,7 @@ export const products = [
     shortDescription: "Fitting Gantung Morgen MG-601 SNI Hitam Fiting",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product104.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388313/product104_hbqk6t.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2623,7 +2591,7 @@ export const products = [
     shortDescription: "Steker Arde Bulat ORENCHI OR-3111 SNI – Colokan Listrik Kuningan Anti Panas Harga Grosir",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product105.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388317/product105_mscwde.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2648,7 +2616,7 @@ export const products = [
     shortDescription: "Fitting Gantung Kap Payung WD Kecil Kap Lampu Gantung Kuningan",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product106.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388321/product106_xryb13.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2673,7 +2641,7 @@ export const products = [
     shortDescription: "Fitting Lampu Plafon Bulat DUTRON Putih Kecil DV-FPS-03-HG",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product107.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388325/product107_uhkvlh.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2698,7 +2666,7 @@ export const products = [
     shortDescription: "PAKET 1DUS 24pcs Fitting Lampu Kombinasi Dutron E27 Colokan 2 Arah Fiting DV-FGK-01",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product108.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388327/product108_l3lh3z.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2723,7 +2691,7 @@ export const products = [
     shortDescription: "Fitting Lampu Plafon Segi 4 New Morgen MG-621 MG-632 Oval Persegi Cream Rumah Lampu SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product109.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388333/product109_jm3umb.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2748,7 +2716,7 @@ export const products = [
     shortDescription: "Steker T Arde Dual USB Dutron Multifungsi 10A Stop Kontak Multi DH STA 01 USB SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product110.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388337/product110_melumf.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2773,7 +2741,7 @@ export const products = [
     shortDescription: "Steker Arde Saklar Switch + Lampu Orenchi OR 3102 SNI Kuningan",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product111.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388341/product111_gbj7bi.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2798,7 +2766,7 @@ export const products = [
     shortDescription: "Morgen IB Saklar Engkel + Stop Kontak Arde MG-8853",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product112.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388345/product112_mpxn52.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2823,7 +2791,7 @@ export const products = [
     shortDescription: "Steker Arde Switch DUTRON Kepala Colokan Saklar DV SSL 01 ON OFF SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product113.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388349/product113_dwrrtr.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2848,7 +2816,7 @@ export const products = [
     shortDescription: "PAKET 1DUS Saklar Series OB Morgen Engkel - Seri - Stop Kontak Tempel SNI White Model",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product114.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388353/product114_pc7p53.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2873,7 +2841,7 @@ export const products = [
     shortDescription: "Kabel Roll Listrik 4 Lubang + Saklar Terminal Box Colokan Kuningan Panjang 6Yard SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product115.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388357/product115_skonbx.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2898,7 +2866,7 @@ export const products = [
     shortDescription: "Paket 1DUS Steker Gepeng Hitam ORENCHI OR 3103 Colokan Listrik Kecil",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product116.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388361/product116_c3j2ns.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2923,7 +2891,7 @@ export const products = [
     shortDescription: "Steker Gepeng Dutron Hitam DV SBA 01 Colokan Listrik SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product117.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750388365/product117_vqomzu.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2948,7 +2916,7 @@ export const products = [
     shortDescription: "Stop Kontak Arde Myvo Kabel Saklar 2-3-4-5 Lubang 1,5M 3M 5M 10M SNI Colokan Listrik",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product118.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390726/product118_i6tcf8.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2973,7 +2941,7 @@ export const products = [
     shortDescription: "Morgen IB Saklar Seri Ganda Double Switch MG-8852 SNI M Series",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product119.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390725/product119_hmwe8o.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -2998,7 +2966,7 @@ export const products = [
     shortDescription: "Steker T Multi Dutron 4 Lubang Datar Colokan DV-STA-01-TD-HG",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product120.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390726/product120_rtwxlq.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3023,7 +2991,7 @@ export const products = [
     shortDescription: "Steker T Arde Warna Orenchi OR3113 SNI Kuningan Colokan Cabang 3",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product121.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390726/product121_sq1hy2.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3048,7 +3016,7 @@ export const products = [
     shortDescription: "PAKET 1DUS Steker Arde Switch DUTRON Kepala Colokan Saklar DV SSL 01 ON OFF SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product122.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390726/product122_io1ooo.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3073,7 +3041,7 @@ export const products = [
     shortDescription: "Steker Kontra Arde Dutron Bulat Putih Female SNI Colokan Contra DH-SKA-01",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product123.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390726/product123_tyz3pq.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3098,7 +3066,7 @@ export const products = [
     shortDescription: "Kabel Roll Box Terminal 10 Yard & 6 Yard Colokan Listrik SNI + Saklar 4 Lobang",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product124.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390726/product124_pm8cs7.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3123,7 +3091,7 @@ export const products = [
     shortDescription: "PAKET 1DUS Steker T Arde Warna Orenchi OR3113 SNI Kuningan Colokan Cabang 3",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product125.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390726/product125_owxieh.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3148,7 +3116,7 @@ export const products = [
     shortDescription: "PAKET 1DUS 24PCS Fitting Gantung Morgen MG-601 SNI Hitam Fiting",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product126.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390726/product126_gz9dqg.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3173,7 +3141,7 @@ export const products = [
     shortDescription: "PAKET 1DUS Dutron Steker T Multi Warna DV-STM-02 Colokan Listrik Cabang 3 Stop Kontak",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product127.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390727/product127_gf784d.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3198,7 +3166,7 @@ export const products = [
     shortDescription: "PAKET 1DUS Steker Gepeng Dutron Hitam DV SBA 01 Colokan Listrik SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product128.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390727/product128_jotzfp.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3223,7 +3191,7 @@ export const products = [
     shortDescription: "PAKET 1DUS Steker T Multi Dutron 4 Lubang Datar Colokan DV-STA-01-TD-HG",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product129.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390731/product129_n8w80r.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3248,7 +3216,7 @@ export const products = [
     shortDescription: "Steker T Multi Dutron Warna DV-STM-02 Colokan Listrik Cabang 3 Stop Kontak",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product130.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390731/product130_tovqp9.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3273,7 +3241,7 @@ export const products = [
     shortDescription: "Stop Kontak Arde Morgen 1 2 3 4 5 Lubang Tanpa Kabel Colokan Listrik Terminal Kuningan SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product131.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390731/product131_xznulv.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3298,7 +3266,7 @@ export const products = [
     shortDescription: "PAKET 1DUS Fitting Plafon Segi Empat Orenchi Bakelite OR 210/ OR 211 Rumah Lampu E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product132.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390731/product132_yt2wtf.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3323,7 +3291,7 @@ export const products = [
     shortDescription: "Morgen Saklar dan Stop Kontak OB Series Tempel Engkel Outbow NPC Model Putih SN I",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product133.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390732/product133_vt1oox.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3348,7 +3316,7 @@ export const products = [
     shortDescription: "Steker Arde Bulat Putih Morgen MG-912 Colokan Listrik Lampu",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product134.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390734/product134_gbsub5.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3373,7 +3341,7 @@ export const products = [
     shortDescription: "PAKET 1DUS Fitting Plafon Bulat Kecil DUTRON - DV-FPS-03-HG",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product135.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390734/product135_tc7ohp.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3398,7 +3366,7 @@ export const products = [
     shortDescription: "PAKET 1DUS Fitting Plafon Bulat Kecil DUTRON - DV-FPS-03-HG",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product136.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390734/product136_pcjeqy.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3423,7 +3391,7 @@ export const products = [
     shortDescription: "Steker T Multi Morgen MG-607 Warna putih SNI Colokan Listrik Tahan lama",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product137.webp",
+    image: "/https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390735/product137_oqowjy.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3448,7 +3416,7 @@ export const products = [
     shortDescription: "PAKET DUS Steker Kontra Arde Dutron Bulat Putih Female SNI Colokan Contra DH-SKA-01",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product138.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390735/product138_ejamcl.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3473,7 +3441,7 @@ export const products = [
     shortDescription: "Steker T Arde DUTRON Colokan Multi Cabang 3 Lubang Stop Kontak SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product139.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390736/product139_fzxcgn.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3498,7 +3466,7 @@ export const products = [
     shortDescription: "PAKET 1DUS Stop Kontak Arde 5 Lobang Morgen Tanpa Kabel Colokan Listrik SNI Kuningan MG-7105",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product140.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390738/product140_aybkpk.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3523,7 +3491,7 @@ export const products = [
     shortDescription: "PAKET 1DUS Stop Kontak Arde 3 Lobang Morgen Tanpa Kabel Colokan Listrik SNI Kuningan MG-7103",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product141.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750390738/product141_mu6m3w.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3548,7 +3516,7 @@ export const products = [
     shortDescription: "PAKET 1DUS Stop Kontak Arde 4 Lobang Morgen Tanpa Kabel Colokan Listrik SNI Kuningan MG-7104",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product142.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750391220/product142_cstkxa.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3573,7 +3541,7 @@ export const products = [
     shortDescription: "PAKET 20PCS Steker T Multi Morgen MG-607 Warna Putih Colokan Listrik SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product143.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750391220/product143_xzcrm8.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3598,7 +3566,7 @@ export const products = [
     shortDescription: "Kabel Listrik Orenchi 2x1,5mm Kawat Tembaga 2x0.75 Serabut 50 Yard FREE ISOLASI SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product144.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750391220/product144_virwby.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3623,7 +3591,7 @@ export const products = [
     shortDescription: "Paket 12pcs Steker T Arde Dutron Saklar Switch Lampu DV-STA-01S-HG",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product145.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750391220/product145_qotkrc.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3648,7 +3616,7 @@ export const products = [
     shortDescription: "MCB MORGEN 6A/10A/16A/20A/25A/32A 1PHASE 1P SNI METERAN LISTRIK",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product146.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750391220/product146_nzidk5.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3673,7 +3641,7 @@ export const products = [
     shortDescription: "Inbow Doos Tanam Dudukan IB Mangkok Saklar Stop Kontak Dus SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product147.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750391220/product147_rwbqup.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3698,7 +3666,7 @@ export const products = [
     shortDescription: "PAKET 1 DUS 20pcs Morgen Saklar Engkel + Stop Kontak IB M Series MG 8853",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product148.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750393928/product148_fdrta9.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3723,7 +3691,7 @@ export const products = [
     shortDescription: "Box MCB 2- 4 Group Orenchi Inbow Outbow Rumah tempat MCB",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product149.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750393928/product149_gf44c2.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3748,7 +3716,7 @@ export const products = [
     shortDescription: "Morgen Saklar IB M Series SK Arde-Engkel-Seri-Stop Kontak Tanam Inbow SNI SATUAN",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product150.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750393929/product150_wnz4dy.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3773,7 +3741,7 @@ export const products = [
     shortDescription: "PAKET 1 DUS 20pcs Morgen Saklar Engkel Single IB M Series MG 8851",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product151.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750393929/product151_nv5bqa.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3798,7 +3766,7 @@ export const products = [
     shortDescription: "PAKET 1 DUS 20pcs Morgen Saklar Seri Dobel IB M Series MG 8852",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product152.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750393929/product152_wdhwfn.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3823,7 +3791,7 @@ export const products = [
     shortDescription: "MCB MORGEN PAKET 12PCS 6A/10A/16A/20A/25A/32A 1PHASE 1P SNI METERAN LISTRIK",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product153.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750393933/product153_xxiyym.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3848,7 +3816,7 @@ export const products = [
     shortDescription: "Fitting Gantung Kap Payung WD Kecil Kap Lampu Gantung Kuningan",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product154.webp",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750393933/product154_lmnsiw.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3868,12 +3836,12 @@ export const products = [
   },
   {
     id: 155,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Kabel Listrik Kawat 2 x 1,5mm dan 2x0,75mm NYM Harga Per Meter Orenchi",
+    price: "4.200 - Rp6.200",
+    shortDescription: "Kabel Listrik Kawat 2 x 1,5mm dan 2x0,75mm NYM Harga Per Meter Orenchi Kuningan SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750393934/product155_s6sxwj.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3888,17 +3856,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Kabel-Listrik-Kawat-2-x-1-5mm-dan-2x0-75mm-NYM-Harga-Per-Meter-Orenchi-Kuningan-SNI-i.640819968.16087254411",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 156,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Kabel Listrik Transparan Serabut Audio Kabel 2x30/ 20x50/ 20x80mm 30yard 100yard",
+    price: "25.800 - Rp33.200",
+    shortDescription: "Kabel Listrik Transparan Serabut Audio Kabel 2x30/ 20x50/ 20x80mm 30yard 100yard SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750393935/product156_ohu22x.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3913,17 +3881,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Kabel-Listrik-Transparan-Serabut-Audio-Kabel-2x30-20x50-20x80mm-30yard-100yard-SNI-i.640819968.10682352191",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 157,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Kabel Listrik Audio Transparan Serabut 2x30 2x50 2x80 Panjang 30Yard (±27m) Kabel Speaker",
+    price: "25.800 - Rp33.000",
+    shortDescription: "Kabel Listrik Audio Transparan Serabut 2x30 2x50 2x80 Panjang 30Yard (±27m) Kabel Speaker SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750393937/product157_rf7nvs.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3938,17 +3906,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Kabel-Listrik-Audio-Transparan-Serabut-2x30-2x50-2x80-Panjang-30Yard-(%C2%B127m)-Kabel-Speaker-SNI-i.640819968.42652221141",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 158,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Isolasi Kabel Listrik Hitam/ Selotip Tahan Panas Himel Electrica",
+    price: "5.750",
+    shortDescription: "Isolasi Kabel Listrik Hitam/ Selotip Tahan Panas Himel Electrical Tape 0.13mmX18mmX10m",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "/https://res.cloudinary.com/dr5pehdsw/image/upload/v1750393937/product158_o7nefv.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3963,17 +3931,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Isolasi-Kabel-Listrik-Hitam-Selotip-Tahan-Panas-Himel-Electrical-Tape-0.13mmX18mmX10m-i.640819968.28884130093",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 159,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Isolasi Listrik Himel Solasi Kabel Tape Hitam 0.13mm x 18mm x 20Meter",
+    price: "61.600 - Rp121.500",
+    shortDescription: "Isolasi Listrik Himel Solasi Kabel Tape Hitam 0.13mm x 18mm x 20Meter Original Ori",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750393938/product159_eyxf6a.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -3988,17 +3956,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Isolasi-Listrik-Himel-Solasi-Kabel-Tape-Hitam-0.13mm-x-18mm-x-20Meter-Original-Ori-i.640819968.24529240353",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 160,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Kipas Angin Gantung Baling Baling Helifan",
+    price: "46.560 - Rp85.500",
+    shortDescription: "Kipas Angin Gantung Baling Baling Helifan 20W 30W 45W 4 Baling dan 5 Baling SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "kelistrikan",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "elektronik",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750393939/product160_fplvsr.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -4013,17 +3981,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Kipas-Angin-Gantung-Baling-Baling-Helifan-20W-30W-45W-4-Baling-dan-5-Baling-SNI-i.640819968.27363918697",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 161,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "KABEL SETRIKA ARDE MORGEN 1,8meter SETERIKA KABEL UNIVERSAL",
+    price: "19.000",
+    shortDescription: "KABEL SETRIKA ARDE MORGEN 1,8meter SETERIKA KABEL UNIVERSAL ISI 2 GOSOKAN SETRIKAAN GOSOKAN",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750393941/product161_bw15kz.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -4038,17 +4006,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/KABEL-SETRIKA-ARDE-MORGEN-1-8meter-SETERIKA-KABEL-UNIVERSAL-ISI-2-GOSOKAN-SETRIKAAN-GOSOKAN-i.640819968.17869302295",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 162,
     name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    price: "52.900 - Rp101.000",
+    shortDescription: "Raket Nyamuk Listrik Dutron UV Mosistrike DT-SE-10 - Teknologi UV dan Daya Listrik Tinggi",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750393942/product162_zkoib8.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -4063,17 +4031,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Raket-Nyamuk-Listrik-Dutron-UV-Mosistrike-DT-SE-10-Teknologi-UV-dan-Daya-Listrik-Tinggi-i.640819968.26504871109",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 163,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Klem Kabel Paku Beton 6-18mm Kelm Original",
+    price: "3.500 - Rp6.450",
+    shortDescription: "Klem Kabel Paku Beton 6-18mm Kelm Original Dutron Clip Cable Listrik",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
     category: "kelistrikan",
-    image: "/assets/images/product-smartphone.jpg",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750393942/product163_vsq8wg.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -4088,17 +4056,17 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Klem-Kabel-Paku-Beton-6-18mm-Kelm-Original-Dutron-Clip-Cable-Listrik-i.640819968.28205272459",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 164,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    name: "Lampu Bohlam Flazzled Vista Paket 4PCS T20 T30 T40 T50 Cahaya Putih LED Lampu Ekonomis",
+    price: "30.300 - Rp46.500",
+    shortDescription: "Lampu Bohlam Flazzled Vista Paket 4PCS T20 T30 T40 T50 Cahaya Putih LED Lampu Ekonomis Non Garansi SNI",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "kelistrikan",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "elektronik",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750393945/product164_qwjegg.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -4113,42 +4081,44 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Lampu-Bohlam-Flazzled-Vista-Paket-4PCS-T20-T30-T40-T50-Cahaya-Putih-LED-Lampu-Ekonomis-Non-Garansi-SNI-i.640819968.41504798020",
     tiktokLink: "https://tiktok.com",
   },
   {
     id: 165,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
-    description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "kelistrikan",
-    image: "/assets/images/product-smartphone.jpg",
+    name: "Lampu LED Emergency FLAZZLED MAGIC 9W 12W 18W 23W Bohlam Menyala",
+    price: '28.000 - Rp40.000',
+    shortDescription: "Lampu LED Emergency FLAZZLED MAGIC 9W 12W 18W 23W Bohlam Menyala Saat Listrik Padam & Emergency/Darurat",
+    description: "Lampu ini dapat digunakan seperti lampu biasa saat listrik menyala, dan langsung menyala secara otomatis ketika listrik padam (asalkan saklar berada dalam posisi ON). Cocok digunakan di rumah, toko, warung, kontrakan, kantor, pos satpam, hingga tempat ibadah. Praktis, hemat listrik, dan terang, lampu ini juga mendukung produk lokal yang berkualitas!",
+    category: "elektronik",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750393945/product165_xpyapd.webp",
     specifications: {
-      "Layar": "6.67 inch AMOLED FHD+",
-      "Prosesor": "Snapdragon 695 5G",
-      "RAM": "6GB",
-      "Memori Internal": "128GB (Expandable up to 1TB)",
-      "Kamera Belakang": "64MP + 8MP + 2MP + 2MP",
-      "Kamera Depan": "16MP",
-      "Baterai": "5000mAh, Fast Charging 33W",
-      "Sistem Operasi": "Android 12",
-      "Konektivitas": "5G, Wi-Fi, Bluetooth 5.1, NFC",
-      "Dimensi": "165 x 76 x 8.1 mm",
-      "Berat": "190 gram",
-      "Garansi": "12 Bulan Resmi"
+      "Nama Produk": "LED Emergency FLAZZLED",
+      "Pilihan Watt": "9W / 12W / 18W / 23W",
+      "Lumen Cahaya": "9W = ±950 lm, 12W = ±1200 lm, 18W = ±1700 lm, 23W = ±2200 lm",
+      "Emergency Nyala": "9W = ±3–4 jam, 12W = ±4–5 jam, 18W = ±3–4 jam, 23W = ±2–3 jam",
+      "Voltase": "AC‑DC 220–240V",
+      "Warna Cahaya": "Cool Daylight (Putih Terang)",
+      "Sudut Penyinaran": "220°",
+      "Fitting": "E27 (fit standar rumah)",
+      "Efisiensi Energi": "Hemat hingga 80%",
+      "Sertifikasi": "SNI (Standar Nasional Indonesia)",
+      "Bahan": "Plastik tebal + LED hemat daya",
+      "Fungsi": "Lampu Emergency & Lampu Harian",
+      "Kondisi Emergency Aktif": "Saklar harus dalam posisi ON saat listrik padam"
+
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Lampu-LED-Emergency-FLAZZLED-MAGIC-9W-12W-18W-23W-Bohlam-Menyala-Saat-Listrik-Padam-Emergency-Darurat-i.640819968.44254798364 ",
     tiktokLink: "https://tiktok.com",
   },
   {
-    id:  166,
-    name: "Smartphone Android X10 Pro",
-    price: 3499000,
-    shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
+    id: 166,
+    name: "Lampu LED Jumbo Paket 3 Pcs Bohlam FLAZZLED VISTA T20 T30 T40 T50 Cahaya Putih Tabung",
+    price: "22.500 - Rp36.500",
+    shortDescription: "Lampu LED Jumbo Paket 3 Pcs Bohlam FLAZZLED VISTA T20 T30 T40 T50 Cahaya Putih Tabung Hemat Energi SNI E27",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "kelistrikan",
-    image: "/assets/images/product-smartphone.jpg",
+    category: "elektronik",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750393946/product166_ejsuhr.webp",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
       "Prosesor": "Snapdragon 695 5G",
@@ -4163,7 +4133,7 @@ export const products = [
       "Berat": "190 gram",
       "Garansi": "12 Bulan Resmi"
     },
-    shopeeLink: "https://shopee.co.id",
+    shopeeLink: "https://shopee.co.id/Lampu-LED-Jumbo-Paket-3-Pcs-Bohlam-FLAZZLED-VISTA-T20-T30-T40-T50-Cahaya-Putih-Tabung-Hemat-Energi-SNI-E27-i.640819968.44304802699",
     tiktokLink: "https://tiktok.com",
   },
   {
@@ -4567,7 +4537,7 @@ export const products = [
     tiktokLink: "https://tiktok.com",
   },
   {
-    id: 183,  
+    id: 183,
     name: "Smartphone Android X10 Pro",
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
@@ -5092,7 +5062,7 @@ export const products = [
     tiktokLink: "https://tiktok.com",
   },
   {
-    id:  204,
+    id: 204,
     name: "Smartphone Android X10 Pro",
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
@@ -5347,7 +5317,7 @@ export const products = [
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
     description: "Smartphone Android X10 Pro hadir dengan spesifikasi premium namun dengan harga yang terjangkau. Dilengkapi dengan quad camera 64MP yang menghasilkan foto berkualitas tinggi di berbagai kondisi pencahayaan. RAM 6GB dan memori internal 128GB memberikan performa yang responsif untuk gaming dan multitasking. Baterai besar 5000mAh dengan fast charging 33W membuat Anda tidak perlu khawatir kehabisan daya sepanjang hari.",
-    category: "kelistrikan",  
+    category: "kelistrikan",
     image: "/assets/images/product-smartphone.jpg",
     specifications: {
       "Layar": "6.67 inch AMOLED FHD+",
@@ -6492,7 +6462,7 @@ export const products = [
     tiktokLink: "https://tiktok.com",
   },
   {
-    id:  260,
+    id: 260,
     name: "Smartphone Android X10 Pro",
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
@@ -6542,7 +6512,7 @@ export const products = [
     tiktokLink: "https://tiktok.com",
   },
   {
-    id:  262,
+    id: 262,
     name: "Smartphone Android X10 Pro",
     price: 3499000,
     shortDescription: "Smartphone dengan kamera 64MP dan baterai 5000mAh",
@@ -6648,7 +6618,7 @@ export const products = [
     shortDescription: "Tambahan Packing Bubble Wrap dan kardus UNTUK KEAMANAN PAKET ANDA",
     description: "Rice cooker digital berkapasitas 1.8 liter dengan inner pot berlapisan ceramic anti lengket. Dilengkapi dengan 10 menu preset untuk memasak berbagai jenis nasi dan makanan lain seperti bubur, sup, dan cake. Fitur keep warm hingga 24 jam dan timer yang dapat diatur membuat masak menjadi lebih fleksibel. Panel LED yang mudah dibaca dan dioperasikan.",
     category: "Package",
-    image: "/assets/images/Package1.jpeg",
+    image: "https://res.cloudinary.com/dr5pehdsw/image/upload/v1750386444/Package1_hcyjom.webp",
     specifications: {
       "Kapasitas": "1.8 Liter (10 cup)",
       "Material Inner Pot": "Ceramic Coating",
@@ -6663,14 +6633,6 @@ export const products = [
     },
     shopeeLink: "https://shopee.co.id/Tambahan-Packing-Bubble-Wrap-dan-kardus-UNTUK-KEAMANAN-PAKET-ANDA-i.640819968.24072254192",
     tiktokLink: "https://tiktok.com",
-    testimonials: [
-      {
-        name: "Indah Permata",
-        rating: 5,
-        avatar: "/assets/images/avatar-10.jpg",
-        comment: "Rice cooker ini membuat nasi jadi pulen dan wangi. Menu presetnya lengkap dan sangat berguna."
-      },
-    ]
   }
 ];
 

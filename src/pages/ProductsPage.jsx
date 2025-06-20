@@ -9,15 +9,48 @@ import { useTheme } from '../context/ThemeContext';
 const ProductsPage = () => {
   const { theme } = useTheme();
   const [searchParams, setSearchParams] = useSearchParams();
-  
-
   const categoryFilter = searchParams.get('category');
   const pageParam = searchParams.get('page');
   const initialPage = pageParam ? parseInt(pageParam, 10) : 1;
 
   const [filteredProducts, setFilteredProducts] = useState([]);
+  const [searchQuery, setSearchQuery] = useState('');
+  const [sortOrder, setSortOrder] = useState('');
   const [currentPage, setCurrentPage] = useState(initialPage);
   const productsPerPage = 15;
+
+  const parsePrice = (price) => {
+    if (typeof price === 'number') return price;
+    if (typeof price === 'string') {
+      const match = price.match(/\d+(?:\.\d+)?/g);
+      return match ? parseInt(match[0].replace('.', '')) : 0;
+    }
+    return 0;
+  };
+  
+  useEffect(() => {
+    let results = categoryFilter
+      ? products.filter(product =>
+        product.category.toLowerCase() === categoryFilter.toLowerCase()
+      )
+      : products;
+
+    if (searchQuery) {
+      results = results.filter(product =>
+        product.name.toLowerCase().includes(searchQuery.toLowerCase())
+      );
+    }
+
+    if (sortOrder) {
+      results = results.slice().sort((a, b) => {
+        const priceA = parsePrice(a.price);
+        const priceB = parsePrice(b.price);
+        return sortOrder === 'asc' ? priceA - priceB : priceB - priceA;
+      });
+    }
+
+    setFilteredProducts(results);
+  }, [categoryFilter, searchQuery, sortOrder]);
 
   useEffect(() => {
     if (categoryFilter) {
@@ -28,40 +61,36 @@ const ProductsPage = () => {
     } else {
       setFilteredProducts(products);
     }
-    
-    // Hanya reset ke halaman 1 jika kategori berubah, bukan saat pertama load
+
     if (categoryFilter !== searchParams.get('category')) {
       setCurrentPage(1);
       updateURLParams(1, categoryFilter);
     }
   }, [categoryFilter]);
 
-  // Update URL ketika pagination berubah
   const updateURLParams = (page, category = categoryFilter) => {
     const newSearchParams = new URLSearchParams();
-    
+
     if (category) {
       newSearchParams.set('category', category);
     }
-    
+
     if (page > 1) {
       newSearchParams.set('page', page.toString());
     }
-    
+
     setSearchParams(newSearchParams);
   };
-
-  // Handler untuk mengubah halaman
+  
   const handlePageChange = (page) => {
     setCurrentPage(page);
     updateURLParams(page);
   };
-
+  
   const totalPages = Math.ceil(filteredProducts.length / productsPerPage);
   const startIndex = (currentPage - 1) * productsPerPage;
   const currentProducts = filteredProducts.slice(startIndex, startIndex + productsPerPage);
 
-  // Validasi currentPage jika melebihi totalPages
   useEffect(() => {
     if (totalPages > 0 && currentPage > totalPages) {
       const validPage = Math.max(1, totalPages);
@@ -86,17 +115,40 @@ const ProductsPage = () => {
 
     return pages;
   };
-
+  
   return (
-    <div className={`min-h-screen flex flex-col ${theme === 'dark' ? 'bg-gray-800 text-white' : 'bg-white text-gray-800'}`}>
+    <div className={`min-h-screen flex flex-col ${theme === 'dark' ? 'bg-gray-800 text-white' : 'bg-white text-gray-800'}`} >
       <Header />
 
       <main className="flex-grow container mx-auto px-4 py-8">
+        <div className="mb-8 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
+          <div></div>
+          
+          <div className="flex space-x-4">
+            <input
+              type="text"
+              placeholder="Cari produk..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              className="border rounded px-3 py-1"
+            />
+            <select
+              value={sortOrder}
+              onChange={(e) => setSortOrder(e.target.value)}
+              className={`border rounded px-3 py-1 ${theme === 'dark' ? 'text-gray-800' : 'text-gray-800'}`}
+            >
+              <option value="">Urutkan</option>
+              <option value="asc">Harga Terendah</option>
+              <option value="desc">Harga Tertinggi</option>
+            </select>
+          </div>
+        </div>
+
         <div className="mb-8">
           <h1 className="text-3xl font-bold mb-4">
             {categoryFilter ? `Produk ${categoryFilter}` : 'Semua Produk'}
           </h1>
-          <p className={`text-sm ${theme === 'dark' ? 'text-gray-300' : 'text-gray-600'}`}>
+          <p className={`text-sm ${theme === 'dark' ? 'text-gray-300' : 'text-gray-600'}`} >
             Temukan produk berkualitas sesuai kebutuhan Anda
           </p>
         </div>
@@ -113,37 +165,35 @@ const ProductsPage = () => {
               ))}
             </div>
 
-            {/* Pagination */}
             {totalPages > 1 && (
               <div className="mt-8 flex justify-center items-center space-x-1 text-xs">
                 <button
                   onClick={() => handlePageChange(Math.max(currentPage - 1, 1))}
                   disabled={currentPage === 1}
-                  className={`px-2 py-1 rounded disabled:opacity-50 ${
-                    theme === 'dark' 
-                      ? 'bg-gray-700 hover:bg-gray-600 text-white' 
-                      : 'bg-gray-200 hover:bg-gray-300'
-                  }`}
+                  className={`px-2 py-1 rounded disabled:opacity-50 ${theme === 'dark' 
+                    ? 'bg-gray-700 hover:bg-gray-600 text-white' 
+                    : 'bg-gray-200 hover:bg-gray-300'}`}
                 >
                   Previous
                 </button>
 
                 {paginateRange().map((page, index) =>
                   page === '...' ? (
-                    <span key={index} className={`px-2 py-1 ${theme === 'dark' ? 'text-gray-400' : 'text-gray-500'}`}>
+                    <span
+                      key={index}
+                      className={`px-2 py-1 ${theme === 'dark' ? 'text-gray-400' : 'text-gray-500'}`}
+                    >
                       ...
                     </span>
                   ) : (
                     <button
                       key={index}
                       onClick={() => handlePageChange(page)}
-                      className={`px-2 py-1 rounded ${
-                        currentPage === page
-                          ? 'bg-blue-600 text-white'
-                          : theme === 'dark'
+                      className={`px-2 py-1 rounded ${currentPage === page
+                        ? 'bg-blue-600 text-white'
+                        : theme === 'dark'
                           ? 'bg-gray-700 hover:bg-gray-600 text-white'
-                          : 'bg-gray-200 hover:bg-gray-300'
-                      }`}
+                          : 'bg-gray-200 hover:bg-gray-300'}`}
                     >
                       {page}
                     </button>
@@ -153,11 +203,9 @@ const ProductsPage = () => {
                 <button
                   onClick={() => handlePageChange(Math.min(currentPage + 1, totalPages))}
                   disabled={currentPage === totalPages}
-                  className={`px-2 py-1 rounded disabled:opacity-50 ${
-                    theme === 'dark' 
-                      ? 'bg-gray-700 hover:bg-gray-600 text-white' 
-                      : 'bg-gray-200 hover:bg-gray-300'
-                  }`}
+                  className={`px-2 py-1 rounded disabled:opacity-50 ${theme === 'dark' 
+                    ? 'bg-gray-700 hover:bg-gray-600 text-white' 
+                    : 'bg-gray-200 hover:bg-gray-300'}`}
                 >
                   Next
                 </button>
